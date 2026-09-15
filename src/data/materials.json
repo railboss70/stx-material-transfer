@@ -1,0 +1,6099 @@
+[
+{
+"id": "31101-0",
+"code": "31101",
+"category": "Agg- Base Course / Subballast",
+"name": "Agg- Base Course / Subballast",
+"unit": "TN"
+},
+{
+"id": "31102-1",
+"code": "31102",
+"category": "Agg- #3 Ballast",
+"name": "Agg- #3 Ballast",
+"unit": "TN"
+},
+{
+"id": "31103-2",
+"code": "31103",
+"category": "Agg- #4 Ballast",
+"name": "Agg- #4 Ballast",
+"unit": "TN"
+},
+{
+"id": "31104-3",
+"code": "31104",
+"category": "Agg- #4A Ballast",
+"name": "Agg- #4A Ballast",
+"unit": "TN"
+},
+{
+"id": "31105-4",
+"code": "31105",
+"category": "Agg- #5 Ballast",
+"name": "Agg- #5 Ballast",
+"unit": "TN"
+},
+{
+"id": "31106-5",
+"code": "31106",
+"category": "Agg- #57 Ballast",
+"name": "Agg- #57 Ballast",
+"unit": "TN"
+},
+{
+"id": "31107-6",
+"code": "31107",
+"category": "Agg- Walkway Ballast",
+"name": "Agg- Walkway Ballast",
+"unit": "TN"
+},
+{
+"id": "31108-7",
+"code": "31108",
+"category": "Agg- Rip Rap #1",
+"name": "Agg- Rip Rap #1",
+"unit": "TN"
+},
+{
+"id": "31109-8",
+"code": "31109",
+"category": "Agg- Rip Rap #2",
+"name": "Agg- Rip Rap #2",
+"unit": "TN"
+},
+{
+"id": "31110-9",
+"code": "31110",
+"category": "Agg- Quarry Spalls / Surge",
+"name": "Agg- Quarry Spalls / Surge",
+"unit": "TN"
+},
+{
+"id": "31111-10",
+"code": "31111",
+"category": "Agg- Sand / Bedding Materials",
+"name": "Agg- Sand / Bedding Materials",
+"unit": "CY"
+},
+{
+"id": "31112-11",
+"code": "31112",
+"category": "Agg- Crushed Concrete",
+"name": "Agg- Crushed Concrete",
+"unit": "TN"
+},
+{
+"id": "31113-12",
+"code": "31113",
+"category": "Agg- Crusher Run",
+"name": "Agg- Crusher Run",
+"unit": "TN"
+},
+{
+"id": "31114-13",
+"code": "31114",
+"category": "Agg- Refinery Slag",
+"name": "Agg- Refinery Slag",
+"unit": "TN"
+},
+{
+"id": "31115-14",
+"code": "31115",
+"category": "Agg- Fill Dirt / Import",
+"name": "Agg- Fill Dirt / Import",
+"unit": "CY"
+},
+{
+"id": "31116-15",
+"code": "31116",
+"category": "Agg- Import Trucking",
+"name": "Agg- Import Trucking",
+"unit": "LD"
+},
+{
+"id": "31117-16",
+"code": "31117",
+"category": "Agg- Export Trucking",
+"name": "Agg- Export Trucking",
+"unit": "LD"
+},
+{
+"id": "31118-17",
+"code": "31118",
+"category": "Agg- Onsite Trucking",
+"name": "Agg- Onsite Trucking",
+"unit": "HR"
+},
+{
+"id": "31119-18",
+"code": "31119",
+"category": "Agg- Millings",
+"name": "Agg- Millings",
+"unit": "TN"
+},
+{
+"id": "31201-19",
+"code": "31201",
+"category": "Crossties- GR3 Industrial",
+"name": "Crossties- GR3 Industrial",
+"unit": "EA"
+},
+{
+"id": "31202-20",
+"code": "31202",
+"category": "Crossties- GR3 Grade",
+"name": "Crosstie 6\" Grade 3 New",
+"unit": "EA"
+},
+{
+"id": "31202-21",
+"code": "31202",
+"category": "Crossties- GR3 Grade",
+"name": "Crosstie 6\" Grade 3 Relay",
+"unit": "EA"
+},
+{
+"id": "31203-22",
+"code": "31203",
+"category": "Crossties- GR4 Industrial",
+"name": "Crossties- GR4 Industrial",
+"unit": "EA"
+},
+{
+"id": "31204-23",
+"code": "31204",
+"category": "Crossties- GR4 Grade",
+"name": "Crosstie 7\" Grade 4 New",
+"unit": "EA"
+},
+{
+"id": "31204-24",
+"code": "31204",
+"category": "Crossties- GR4 Grade",
+"name": "Crosstie 7\" Grade 4 Relay",
+"unit": "EA"
+},
+{
+"id": "31205-25",
+"code": "31205",
+"category": "Crossties- GR5 Industrial",
+"name": "Crossties- GR5 Industrial",
+"unit": "EA"
+},
+{
+"id": "31206-26",
+"code": "31206",
+"category": "Crossties- GR5 Grade",
+"name": "Crosstie 7\" Grade 5 New",
+"unit": "EA"
+},
+{
+"id": "31206-27",
+"code": "31206",
+"category": "Crossties- GR5 Grade",
+"name": "Crosstie 7\" Grade 5 Relay",
+"unit": "EA"
+},
+{
+"id": "31207-28",
+"code": "31207",
+"category": "Crossties- GR4/5 Mainline Mix",
+"name": "Crosstie 7\" Grade 4/5 Mainline Mix New",
+"unit": "EA"
+},
+{
+"id": "31207-29",
+"code": "31207",
+"category": "Crossties- GR4/5 Mainline Mix",
+"name": "Crosstie 7\" Grade 4/5 Mainline Mix Relay",
+"unit": "EA"
+},
+{
+"id": "31208-30",
+"code": "31208",
+"category": "Crossties- Steel 5.5\"",
+"name": "Crosstie Steel 5.5\" New",
+"unit": "EA"
+},
+{
+"id": "31208-31",
+"code": "31208",
+"category": "Crossties- Steel 5.5\"",
+"name": "Crosstie Steel 5.5\" Relay",
+"unit": "EA"
+},
+{
+"id": "31209-32",
+"code": "31209",
+"category": "Crossties- Steel 6\"",
+"name": "Crosstie Steel 6\" New",
+"unit": "EA"
+},
+{
+"id": "31209-33",
+"code": "31209",
+"category": "Crossties- Steel 6\"",
+"name": "Crosstie Steel 6\" Relay",
+"unit": "EA"
+},
+{
+"id": "31210-34",
+"code": "31210",
+"category": "Crossties- Concrete 5.5\"",
+"name": "Crosstie Concrete 5.5\" New",
+"unit": "EA"
+},
+{
+"id": "31210-35",
+"code": "31210",
+"category": "Crossties- Concrete 5.5\"",
+"name": "Crosstie Concrete 5.5\" Relay",
+"unit": "EA"
+},
+{
+"id": "31211-36",
+"code": "31211",
+"category": "Crossties- Concrete 6\"",
+"name": "Crosstie Concrete 6\" New",
+"unit": "EA"
+},
+{
+"id": "31211-37",
+"code": "31211",
+"category": "Crossties- Concrete 6\"",
+"name": "Crosstie Concrete 6\" Relay",
+"unit": "EA"
+},
+{
+"id": "31212-38",
+"code": "31212",
+"category": "Crossties- Disposal",
+"name": "Crossties- Disposal",
+"unit": "EA"
+},
+{
+"id": "31213-39",
+"code": "31213",
+"category": "Crossties- Landscape",
+"name": "Crosstie Landscape (No Reuse)",
+"unit": "EA"
+},
+{
+"id": "31214-40",
+"code": "31214",
+"category": "Crossties- Relay",
+"name": "Crossties- Relay",
+"unit": "EA"
+},
+{
+"id": "31220-41",
+"code": "31220",
+"category": "SWTies- #08 Timber Package",
+"name": "SWTies- #08 Timber Package",
+"unit": "EA"
+},
+{
+"id": "31221-42",
+"code": "31221",
+"category": "SWTies- #09 Timber Package",
+"name": "SWTies- #09 Timber Package",
+"unit": "EA"
+},
+{
+"id": "31222-43",
+"code": "31222",
+"category": "SWTies- #10 Timber Package",
+"name": "SWTies- #10 Timber Package",
+"unit": "EA"
+},
+{
+"id": "31223-44",
+"code": "31223",
+"category": "SWTies- #11 Timber Package",
+"name": "SWTies- #11 Timber Package",
+"unit": "EA"
+},
+{
+"id": "31224-45",
+"code": "31224",
+"category": "SWTies- #12 Timber Package",
+"name": "SWTies- #12 Timber Package",
+"unit": "EA"
+},
+{
+"id": "31225-46",
+"code": "31225",
+"category": "SWTies- Timber Specialized Head",
+"name": "SWTies- Timber Specialized Head",
+"unit": "EA"
+},
+{
+"id": "31226-47",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "SWTies- Timber Selective Length",
+"unit": "EA"
+},
+{
+"id": "31226-48",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 09' New",
+"unit": "EA"
+},
+{
+"id": "31226-49",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 09' Relay",
+"unit": "EA"
+},
+{
+"id": "31226-50",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 10' New",
+"unit": "EA"
+},
+{
+"id": "31226-51",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 10' Relay",
+"unit": "EA"
+},
+{
+"id": "31226-52",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 11' New",
+"unit": "EA"
+},
+{
+"id": "31226-53",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 11' Relay",
+"unit": "EA"
+},
+{
+"id": "31226-54",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 12' New",
+"unit": "EA"
+},
+{
+"id": "31226-55",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 12' Relay",
+"unit": "EA"
+},
+{
+"id": "31226-56",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 13' New",
+"unit": "EA"
+},
+{
+"id": "31226-57",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 13' Relay",
+"unit": "EA"
+},
+{
+"id": "31226-58",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 14' New",
+"unit": "EA"
+},
+{
+"id": "31226-59",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 14' Relay",
+"unit": "EA"
+},
+{
+"id": "31226-60",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 15' New",
+"unit": "EA"
+},
+{
+"id": "31226-61",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 15' Relay",
+"unit": "EA"
+},
+{
+"id": "31226-62",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 16' New",
+"unit": "EA"
+},
+{
+"id": "31226-63",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 16' Relay",
+"unit": "EA"
+},
+{
+"id": "31226-64",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 16.5' New",
+"unit": "EA"
+},
+{
+"id": "31226-65",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 16.5' Relay",
+"unit": "EA"
+},
+{
+"id": "31226-66",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 17' New",
+"unit": "EA"
+},
+{
+"id": "31226-67",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 17' Relay",
+"unit": "EA"
+},
+{
+"id": "31226-68",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 17.5' New",
+"unit": "EA"
+},
+{
+"id": "31226-69",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 17.5' Relay",
+"unit": "EA"
+},
+{
+"id": "31226-70",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 24' New",
+"unit": "EA"
+},
+{
+"id": "31226-71",
+"code": "31226",
+"category": "SWTies- Timber Selective Length",
+"name": "Switchtie- 24' Relay",
+"unit": "EA"
+},
+{
+"id": "31227-72",
+"code": "31227",
+"category": "SWTies- Timber X-Over Ties",
+"name": "SWTies- Timber X-Over Ties",
+"unit": "EA"
+},
+{
+"id": "31228-73",
+"code": "31228",
+"category": "SWTies- #08 Steel Package",
+"name": "Switchtie- Steel Package #8",
+"unit": "EA"
+},
+{
+"id": "31229-74",
+"code": "31229",
+"category": "SWTies- #09 Steel Package",
+"name": "Switchtie- Steel Package #9",
+"unit": "EA"
+},
+{
+"id": "31230-75",
+"code": "31230",
+"category": "SWTies- #10 Steel Package",
+"name": "Switchtie- Steel Package #10",
+"unit": "EA"
+},
+{
+"id": "31231-76",
+"code": "31231",
+"category": "SWTies- #11 Steel Package",
+"name": "Switchtie- Steel Package #11",
+"unit": "EA"
+},
+{
+"id": "31232-77",
+"code": "31232",
+"category": "SWTies- #12 Steel Package",
+"name": "Switchtie- Steel Package #12",
+"unit": "EA"
+},
+{
+"id": "31233-78",
+"code": "31233",
+"category": "SWTies- Steel Selective Length",
+"name": "SWTies- Steel Selective Length",
+"unit": "EA"
+},
+{
+"id": "31234-79",
+"code": "31234",
+"category": "SWTies- Steel Specialized Head",
+"name": "Switchtie- Steel Headblock Assembly",
+"unit": "EA"
+},
+{
+"id": "31235-80",
+"code": "31235",
+"category": "SWTies- Steel X-Over Ties",
+"name": "SWTies- Steel X-Over Ties",
+"unit": "EA"
+},
+{
+"id": "31236-81",
+"code": "31236",
+"category": "SWTies- #08 Concrete Package",
+"name": "Switchtie- Concrete Package #8",
+"unit": "EA"
+},
+{
+"id": "31237-82",
+"code": "31237",
+"category": "SWTies- #09 Concrete Package",
+"name": "Switchtie- Concrete Package #9",
+"unit": "EA"
+},
+{
+"id": "31238-83",
+"code": "31238",
+"category": "SWTies- #10 Concrete Package",
+"name": "Switchtie- Concrete Package #10",
+"unit": "EA"
+},
+{
+"id": "31239-84",
+"code": "31239",
+"category": "SWTies- #11 Concrete Package",
+"name": "Switchtie- Concrete Package #11",
+"unit": "EA"
+},
+{
+"id": "31240-85",
+"code": "31240",
+"category": "SWTies- #12 Concrete Package",
+"name": "Switchtie- Concrete Package #12",
+"unit": "EA"
+},
+{
+"id": "31241-86",
+"code": "31241",
+"category": "SWTies- Concrete Selective Length",
+"name": "SWTies- Concrete Selective Length",
+"unit": "EA"
+},
+{
+"id": "31242-87",
+"code": "31242",
+"category": "SWTies- Concrete Specialized Head",
+"name": "SWTies- Concrete Specialized Head",
+"unit": "EA"
+},
+{
+"id": "31243-88",
+"code": "31243",
+"category": "SWTies- Concrete X-Over Ties",
+"name": "SWTies- Concrete X-Over Ties",
+"unit": "EA"
+},
+{
+"id": "31244-89",
+"code": "31244",
+"category": "SWTies- SSP Derail Timber",
+"name": "SWTies- SSP Derail Timber",
+"unit": "EA"
+},
+{
+"id": "31245-90",
+"code": "31245",
+"category": "SWTies- DSP Derail Timber",
+"name": "SWTies- DSP Derail Timber",
+"unit": "EA"
+},
+{
+"id": "31246-91",
+"code": "31246",
+"category": "SWTies- DSP Derail Concrete",
+"name": "SWTies- DSP Derail Concrete",
+"unit": "EA"
+},
+{
+"id": "31247-92",
+"code": "31247",
+"category": "SWTies- DSP Derail Steel",
+"name": "SWTies- DSP Derail Steel",
+"unit": "EA"
+},
+{
+"id": "31248-93",
+"code": "31248",
+"category": "SWTies- Derail Specialized",
+"name": "SWTies- Derail Specialized",
+"unit": "EA"
+},
+{
+"id": "31249-94",
+"code": "31249",
+"category": "SWTies- Disposal",
+"name": "SWTies- Disposal",
+"unit": "EA"
+},
+{
+"id": "31301-95",
+"code": "31301",
+"category": "Rail- 075# Relay",
+"name": "Rail- 075# Relay N",
+"unit": "TN"
+},
+{
+"id": "31301-96",
+"code": "31301",
+"category": "Rail- 075# Relay",
+"name": "Rail- 075# Relay S",
+"unit": "TN"
+},
+{
+"id": "31302-97",
+"code": "31302",
+"category": "Rail- 085# Relay",
+"name": "Rail- 085# Relay N",
+"unit": "TN"
+},
+{
+"id": "31302-98",
+"code": "31302",
+"category": "Rail- 085# Relay",
+"name": "Rail- 085# Relay S",
+"unit": "TN"
+},
+{
+"id": "31303-99",
+"code": "31303",
+"category": "Rail- 090# Relay",
+"name": "Rail- 090# Relay N",
+"unit": "TN"
+},
+{
+"id": "31303-100",
+"code": "31303",
+"category": "Rail- 090# Relay",
+"name": "Rail- 090# Relay S",
+"unit": "TN"
+},
+{
+"id": "31304-101",
+"code": "31304",
+"category": "Rail- 100# New",
+"name": "Rail- 100# New N",
+"unit": "TN"
+},
+{
+"id": "31304-102",
+"code": "31304",
+"category": "Rail- 100# New",
+"name": "Rail- 100# New S",
+"unit": "TN"
+},
+{
+"id": "31305-103",
+"code": "31305",
+"category": "Rail- 100# Relay #1",
+"name": "Rail- 100# Relay N",
+"unit": "TN"
+},
+{
+"id": "31305-104",
+"code": "31305",
+"category": "Rail- 100# Relay #1",
+"name": "Rail- 100# Relay S",
+"unit": "TN"
+},
+{
+"id": "31306-105",
+"code": "31306",
+"category": "Rail- 100# Relay #2",
+"name": "Rail- 100# Relay #2",
+"unit": "TN"
+},
+{
+"id": "31307-106",
+"code": "31307",
+"category": "Rail- 110# Relay #1",
+"name": "Rail- 110# Relay N",
+"unit": "TN"
+},
+{
+"id": "31307-107",
+"code": "31307",
+"category": "Rail- 110# Relay #1",
+"name": "Rail- 110# Relay S",
+"unit": "TN"
+},
+{
+"id": "31308-108",
+"code": "31308",
+"category": "Rail- 110# Relay #2",
+"name": "Rail- 110# Relay #2",
+"unit": "TN"
+},
+{
+"id": "31309-109",
+"code": "31309",
+"category": "Rail- 112# Relay #1",
+"name": "Rail- 112# Relay N",
+"unit": "TN"
+},
+{
+"id": "31309-110",
+"code": "31309",
+"category": "Rail- 112# Relay #1",
+"name": "Rail- 112# Relay S",
+"unit": "TN"
+},
+{
+"id": "31310-111",
+"code": "31310",
+"category": "Rail- 112# Relay #2",
+"name": "Rail- 112# Relay #2",
+"unit": "TN"
+},
+{
+"id": "31311-112",
+"code": "31311",
+"category": "Rail- 115# New",
+"name": "Rail- 115# New N",
+"unit": "TN"
+},
+{
+"id": "31311-113",
+"code": "31311",
+"category": "Rail- 115# New",
+"name": "Rail- 115# New S",
+"unit": "TN"
+},
+{
+"id": "31312-114",
+"code": "31312",
+"category": "Rail- 115# Relay #1",
+"name": "Rail- 115# Relay N",
+"unit": "TN"
+},
+{
+"id": "31312-115",
+"code": "31312",
+"category": "Rail- 115# Relay #1",
+"name": "Rail- 115# Relay S",
+"unit": "TN"
+},
+{
+"id": "31313-116",
+"code": "31313",
+"category": "Rail- 115# Relay #2",
+"name": "Rail- 115# Relay #2",
+"unit": "TN"
+},
+{
+"id": "31314-117",
+"code": "31314",
+"category": "Rail- 131# Relay #1",
+"name": "Rail- 131# Relay N",
+"unit": "TN"
+},
+{
+"id": "31314-118",
+"code": "31314",
+"category": "Rail- 131# Relay #1",
+"name": "Rail- 131# Relay S",
+"unit": "TN"
+},
+{
+"id": "31315-119",
+"code": "31315",
+"category": "Rail- 131# Relay #2",
+"name": "Rail- 131# Relay #2",
+"unit": "TN"
+},
+{
+"id": "31316-120",
+"code": "31316",
+"category": "Rail- 132# Relay #1",
+"name": "Rail- 132# Relay N",
+"unit": "TN"
+},
+{
+"id": "31316-121",
+"code": "31316",
+"category": "Rail- 132# Relay #1",
+"name": "Rail- 132# Relay S",
+"unit": "TN"
+},
+{
+"id": "31317-122",
+"code": "31317",
+"category": "Rail- 132# Relay #2",
+"name": "Rail- 132# Relay #2",
+"unit": "TN"
+},
+{
+"id": "31318-123",
+"code": "31318",
+"category": "Rail- 136# New",
+"name": "Rail- 136# New N",
+"unit": "TN"
+},
+{
+"id": "31318-124",
+"code": "31318",
+"category": "Rail- 136# New",
+"name": "Rail- 136# New S",
+"unit": "TN"
+},
+{
+"id": "31319-125",
+"code": "31319",
+"category": "Rail- 136# Relay #1",
+"name": "Rail- 136# Relay N",
+"unit": "TN"
+},
+{
+"id": "31319-126",
+"code": "31319",
+"category": "Rail- 136# Relay #1",
+"name": "Rail- 136# Relay S",
+"unit": "TN"
+},
+{
+"id": "31320-127",
+"code": "31320",
+"category": "Rail- 136# Relay #2",
+"name": "Rail- 136# Relay #2",
+"unit": "TN"
+},
+{
+"id": "31321-128",
+"code": "31321",
+"category": "Rail- 140# Relay #1",
+"name": "Rail- 140# Relay N",
+"unit": "TN"
+},
+{
+"id": "31321-129",
+"code": "31321",
+"category": "Rail- 140# Relay #1",
+"name": "Rail- 140# Relay S",
+"unit": "TN"
+},
+{
+"id": "31322-130",
+"code": "31322",
+"category": "Rail- 140# Relay #2",
+"name": "Rail- 140# Relay #2",
+"unit": "TN"
+},
+{
+"id": "31323-131",
+"code": "31323",
+"category": "Rail- 140# New",
+"name": "Rail- 140# New N",
+"unit": "TN"
+},
+{
+"id": "31323-132",
+"code": "31323",
+"category": "Rail- 140# New",
+"name": "Rail- 140# New S",
+"unit": "TN"
+},
+{
+"id": "31324-133",
+"code": "31324",
+"category": "Rail- 141# New",
+"name": "Rail- 141# New N",
+"unit": "TN"
+},
+{
+"id": "31324-134",
+"code": "31324",
+"category": "Rail- 141# New",
+"name": "Rail- 141# New S",
+"unit": "TN"
+},
+{
+"id": "31325-135",
+"code": "31325",
+"category": "Rail- 141# Relay #1",
+"name": "Rail- 141# Relay N",
+"unit": "TN"
+},
+{
+"id": "31325-136",
+"code": "31325",
+"category": "Rail- 141# Relay #1",
+"name": "Rail- 141# Relay S",
+"unit": "TN"
+},
+{
+"id": "31326-137",
+"code": "31326",
+"category": "Rail- 141# Relay #2",
+"name": "Rail- 141# Relay #2",
+"unit": "TN"
+},
+{
+"id": "31327-138",
+"code": "31327",
+"category": "Rail- 170# Crane New",
+"name": "Rail- 170# New Crane Rail",
+"unit": "TN"
+},
+{
+"id": "31328-139",
+"code": "31328",
+"category": "Rail- 170# Crane Relay #1",
+"name": "Rail- 170# Relay Crane Rail",
+"unit": "TN"
+},
+{
+"id": "31329-140",
+"code": "31329",
+"category": "Rail- 171# Crane New",
+"name": "Rail- 171# New Crane Rail",
+"unit": "TN"
+},
+{
+"id": "31330-141",
+"code": "31330",
+"category": "Rail- 171# Crane Relay #1",
+"name": "Rail- 171# Relay Crane Rail",
+"unit": "TN"
+},
+{
+"id": "31331-142",
+"code": "31331",
+"category": "Rail- 100# Samson LH",
+"name": "Rail- 100# Samson Stock Rail LH",
+"unit": "TN"
+},
+{
+"id": "31332-143",
+"code": "31332",
+"category": "Rail- 100# Samson RH",
+"name": "Rail- 100# Samson Stock Rail RH",
+"unit": "TN"
+},
+{
+"id": "31333-144",
+"code": "31333",
+"category": "Rail- 115# Samson LH",
+"name": "Rail- 115# Samson Stock Rail LH",
+"unit": "TN"
+},
+{
+"id": "31334-145",
+"code": "31334",
+"category": "Rail- 115# Samson RH",
+"name": "Rail- 115# Samson Stock Rail RH",
+"unit": "TN"
+},
+{
+"id": "31335-146",
+"code": "31335",
+"category": "Rail- 132# Samson LH",
+"name": "Rail- 132# Samson Stock Rail LH",
+"unit": "TN"
+},
+{
+"id": "31336-147",
+"code": "31336",
+"category": "Rail- 132# Samson RH",
+"name": "Rail- 132# Samson Stock Rail RH",
+"unit": "TN"
+},
+{
+"id": "31337-148",
+"code": "31337",
+"category": "Rail- 136# Samson LH",
+"name": "Rail- 136# Samson Stock Rail LH",
+"unit": "TN"
+},
+{
+"id": "31338-149",
+"code": "31338",
+"category": "Rail- 136# Samson RH",
+"name": "Rail- 136# Samson Stock Rail RH",
+"unit": "TN"
+},
+{
+"id": "31339-150",
+"code": "31339",
+"category": "Rail- 141# Samson LH",
+"name": "Rail- 141# Samson Stock Rail LH",
+"unit": "TN"
+},
+{
+"id": "31340-151",
+"code": "31340",
+"category": "Rail- 141# Samson RH",
+"name": "Rail- 141# Samson Stock Rail RH",
+"unit": "TN"
+},
+{
+"id": "31341-152",
+"code": "31341",
+"category": "Rail- Misc Sizes Relay",
+"name": "Rail- 080# Relay N",
+"unit": "TN"
+},
+{
+"id": "31341-153",
+"code": "31341",
+"category": "Rail- Misc Sizes Relay",
+"name": "Rail- 080# Relay S",
+"unit": "TN"
+},
+{
+"id": "31341-154",
+"code": "31341",
+"category": "Rail- Misc Sizes Relay",
+"name": "Rail- 105# Relay N",
+"unit": "TN"
+},
+{
+"id": "31341-155",
+"code": "31341",
+"category": "Rail- Misc Sizes Relay",
+"name": "Rail- 105# Relay S",
+"unit": "TN"
+},
+{
+"id": "31341-156",
+"code": "31341",
+"category": "Rail- Misc Sizes Relay",
+"name": "Rail- 119# Relay N",
+"unit": "TN"
+},
+{
+"id": "31341-157",
+"code": "31341",
+"category": "Rail- Misc Sizes Relay",
+"name": "Rail- 119# Relay S",
+"unit": "TN"
+},
+{
+"id": "31341-158",
+"code": "31341",
+"category": "Rail- Misc Sizes Relay",
+"name": "Rail- 127# Relay N",
+"unit": "TN"
+},
+{
+"id": "31341-159",
+"code": "31341",
+"category": "Rail- Misc Sizes Relay",
+"name": "Rail- 127# Relay S",
+"unit": "TN"
+},
+{
+"id": "31341-160",
+"code": "31341",
+"category": "Rail- Misc Sizes Relay",
+"name": "Rail- 133# Relay N",
+"unit": "TN"
+},
+{
+"id": "31341-161",
+"code": "31341",
+"category": "Rail- Misc Sizes Relay",
+"name": "Rail- 133# Relay S",
+"unit": "TN"
+},
+{
+"id": "31342-162",
+"code": "31342",
+"category": "Rail- Mine New",
+"name": "Rail- Mine New",
+"unit": "TN"
+},
+{
+"id": "31343-163",
+"code": "31343",
+"category": "Rail- Mine Relay",
+"name": "Rail- Mine Relay",
+"unit": "TN"
+},
+{
+"id": "31344-164",
+"code": "31344",
+"category": "Rail- Transit New",
+"name": "Rail- Transit New",
+"unit": "TN"
+},
+{
+"id": "31345-165",
+"code": "31345",
+"category": "Rail- Transit Relay",
+"name": "Rail- Transit Relay",
+"unit": "TN"
+},
+{
+"id": "31346-166",
+"code": "31346",
+"category": "Rail- Girder New",
+"name": "Girder Rail",
+"unit": "TN"
+},
+{
+"id": "31347-167",
+"code": "31347",
+"category": "Rail- Girder Relay",
+"name": "Rail- Girder Relay",
+"unit": "TN"
+},
+{
+"id": "31348-168",
+"code": "31348",
+"category": "Rail- Transition",
+"name": "Rail- Transition Rail 100/115",
+"unit": "EA"
+},
+{
+"id": "31348-169",
+"code": "31348",
+"category": "Rail- Transition",
+"name": "Rail- Transition Rail 115/136",
+"unit": "EA"
+},
+{
+"id": "31348-170",
+"code": "31348",
+"category": "Rail- Transition",
+"name": "Rail- Transition Rail 132/136",
+"unit": "EA"
+},
+{
+"id": "31348-171",
+"code": "31348",
+"category": "Rail- Transition",
+"name": "Rail- Transition Rail 90/100",
+"unit": "EA"
+},
+{
+"id": "31401-172",
+"code": "31401",
+"category": "Derail- Crowder",
+"name": "Derail- Crowder Size 4",
+"unit": "EA"
+},
+{
+"id": "31401-173",
+"code": "31401",
+"category": "Derail- Crowder",
+"name": "Derail- Crowder Size 5",
+"unit": "EA"
+},
+{
+"id": "31401-174",
+"code": "31401",
+"category": "Derail- Crowder",
+"name": "Derail- Crowder Size 6",
+"unit": "EA"
+},
+{
+"id": "31401-175",
+"code": "31401",
+"category": "Derail- Crowder",
+"name": "Derail- Crowder Size 7",
+"unit": "EA"
+},
+{
+"id": "31401-176",
+"code": "31401",
+"category": "Derail- Crowder",
+"name": "Derail- Crowder Size 8",
+"unit": "EA"
+},
+{
+"id": "31402-177",
+"code": "31402",
+"category": "Derail- Double Switchpoint",
+"name": "Derail- Double Switchpoint",
+"unit": "EA"
+},
+{
+"id": "31403-178",
+"code": "31403",
+"category": "Derail- Flop",
+"name": "Derail- Flop Size 4 Left",
+"unit": "EA"
+},
+{
+"id": "31403-179",
+"code": "31403",
+"category": "Derail- Flop",
+"name": "Derail- Flop Size 4 Right",
+"unit": "EA"
+},
+{
+"id": "31403-180",
+"code": "31403",
+"category": "Derail- Flop",
+"name": "Derail- Flop Size 5 Left",
+"unit": "EA"
+},
+{
+"id": "31403-181",
+"code": "31403",
+"category": "Derail- Flop",
+"name": "Derail- Flop Size 5 Right",
+"unit": "EA"
+},
+{
+"id": "31403-182",
+"code": "31403",
+"category": "Derail- Flop",
+"name": "Derail- Flop Size 6 Left",
+"unit": "EA"
+},
+{
+"id": "31403-183",
+"code": "31403",
+"category": "Derail- Flop",
+"name": "Derail- Flop Size 6 Right",
+"unit": "EA"
+},
+{
+"id": "31403-184",
+"code": "31403",
+"category": "Derail- Flop",
+"name": "Derail- Flop Size 7 Left",
+"unit": "EA"
+},
+{
+"id": "31403-185",
+"code": "31403",
+"category": "Derail- Flop",
+"name": "Derail- Flop Size 7 Right",
+"unit": "EA"
+},
+{
+"id": "31403-186",
+"code": "31403",
+"category": "Derail- Flop",
+"name": "Derail- Flop Size 8 Left",
+"unit": "EA"
+},
+{
+"id": "31403-187",
+"code": "31403",
+"category": "Derail- Flop",
+"name": "Derail- Flop Size 8 Right",
+"unit": "EA"
+},
+{
+"id": "31404-188",
+"code": "31404",
+"category": "Derail- Portable",
+"name": "Derail- Portable",
+"unit": "EA"
+},
+{
+"id": "31405-189",
+"code": "31405",
+"category": "Derail- Single Switchpoint",
+"name": "Derail- Single Switchpoint",
+"unit": "EA"
+},
+{
+"id": "31406-190",
+"code": "31406",
+"category": "Derail- Sliding",
+"name": "Derail- Sliding Size 4 Bi-Directional",
+"unit": "EA"
+},
+{
+"id": "31406-191",
+"code": "31406",
+"category": "Derail- Sliding",
+"name": "Derail- Sliding Size 4 Left",
+"unit": "EA"
+},
+{
+"id": "31406-192",
+"code": "31406",
+"category": "Derail- Sliding",
+"name": "Derail- Sliding Size 4 Right",
+"unit": "EA"
+},
+{
+"id": "31406-193",
+"code": "31406",
+"category": "Derail- Sliding",
+"name": "Derail- Sliding Size 5 Bi-Directional",
+"unit": "EA"
+},
+{
+"id": "31406-194",
+"code": "31406",
+"category": "Derail- Sliding",
+"name": "Derail- Sliding Size 5 Left",
+"unit": "EA"
+},
+{
+"id": "31406-195",
+"code": "31406",
+"category": "Derail- Sliding",
+"name": "Derail- Sliding Size 5 Right",
+"unit": "EA"
+},
+{
+"id": "31406-196",
+"code": "31406",
+"category": "Derail- Sliding",
+"name": "Derail- Sliding Size 6 Bi-Directional",
+"unit": "EA"
+},
+{
+"id": "31406-197",
+"code": "31406",
+"category": "Derail- Sliding",
+"name": "Derail- Sliding Size 6 Left",
+"unit": "EA"
+},
+{
+"id": "31406-198",
+"code": "31406",
+"category": "Derail- Sliding",
+"name": "Derail- Sliding Size 6 Right",
+"unit": "EA"
+},
+{
+"id": "31406-199",
+"code": "31406",
+"category": "Derail- Sliding",
+"name": "Derail- Sliding Size 7 Bi-Directional",
+"unit": "EA"
+},
+{
+"id": "31406-200",
+"code": "31406",
+"category": "Derail- Sliding",
+"name": "Derail- Sliding Size 7 Left",
+"unit": "EA"
+},
+{
+"id": "31406-201",
+"code": "31406",
+"category": "Derail- Sliding",
+"name": "Derail- Sliding Size 7 Right",
+"unit": "EA"
+},
+{
+"id": "31406-202",
+"code": "31406",
+"category": "Derail- Sliding",
+"name": "Derail- Sliding Size 8 Bi-Directional",
+"unit": "EA"
+},
+{
+"id": "31406-203",
+"code": "31406",
+"category": "Derail- Sliding",
+"name": "Derail- Sliding Size 8 Left",
+"unit": "EA"
+},
+{
+"id": "31406-204",
+"code": "31406",
+"category": "Derail- Sliding",
+"name": "Derail- Sliding Size 8 Right",
+"unit": "EA"
+},
+{
+"id": "31407-205",
+"code": "31407",
+"category": "Derail- Stand",
+"name": "Derail- Stand (Universal)",
+"unit": "EA"
+},
+{
+"id": "31408-206",
+"code": "31408",
+"category": "Derail- Vertical Lift",
+"name": "Derail- Vertical Lift",
+"unit": "EA"
+},
+{
+"id": "31409-207",
+"code": "31409",
+"category": "Turnout- #08 R-B Package",
+"name": "Turnout Steel Package- 08 Rigid Bolted 100#",
+"unit": "EA"
+},
+{
+"id": "31409-208",
+"code": "31409",
+"category": "Turnout- #08 R-B Package",
+"name": "Turnout Steel Package- 08 Rigid Bolted 112#",
+"unit": "EA"
+},
+{
+"id": "31409-209",
+"code": "31409",
+"category": "Turnout- #08 R-B Package",
+"name": "Turnout Steel Package- 08 Rigid Bolted 115#",
+"unit": "EA"
+},
+{
+"id": "31409-210",
+"code": "31409",
+"category": "Turnout- #08 R-B Package",
+"name": "Turnout Steel Package- 08 Rigid Bolted 132#",
+"unit": "EA"
+},
+{
+"id": "31409-211",
+"code": "31409",
+"category": "Turnout- #08 R-B Package",
+"name": "Turnout Steel Package- 08 Rigid Bolted 136#",
+"unit": "EA"
+},
+{
+"id": "31409-212",
+"code": "31409",
+"category": "Turnout- #08 R-B Package",
+"name": "Turnout Steel Package- 08 Rigid Bolted 141#",
+"unit": "EA"
+},
+{
+"id": "31409-213",
+"code": "31409",
+"category": "Turnout- #08 R-B Package",
+"name": "Turnout Steel Package- 08 Rigid Bolted 85#",
+"unit": "EA"
+},
+{
+"id": "31409-214",
+"code": "31409",
+"category": "Turnout- #08 R-B Package",
+"name": "Turnout Steel Package- 08 Rigid Bolted 90#",
+"unit": "EA"
+},
+{
+"id": "31410-215",
+"code": "31410",
+"category": "Turnout- #08 RBM Package",
+"name": "Turnout Steel Package- 08 RBM 100#",
+"unit": "EA"
+},
+{
+"id": "31410-216",
+"code": "31410",
+"category": "Turnout- #08 RBM Package",
+"name": "Turnout Steel Package- 08 RBM 112#",
+"unit": "EA"
+},
+{
+"id": "31410-217",
+"code": "31410",
+"category": "Turnout- #08 RBM Package",
+"name": "Turnout Steel Package- 08 RBM 115#",
+"unit": "EA"
+},
+{
+"id": "31410-218",
+"code": "31410",
+"category": "Turnout- #08 RBM Package",
+"name": "Turnout Steel Package- 08 RBM 132#",
+"unit": "EA"
+},
+{
+"id": "31410-219",
+"code": "31410",
+"category": "Turnout- #08 RBM Package",
+"name": "Turnout Steel Package- 08 RBM 136#",
+"unit": "EA"
+},
+{
+"id": "31410-220",
+"code": "31410",
+"category": "Turnout- #08 RBM Package",
+"name": "Turnout Steel Package- 08 RBM 141#",
+"unit": "EA"
+},
+{
+"id": "31410-221",
+"code": "31410",
+"category": "Turnout- #08 RBM Package",
+"name": "Turnout Steel Package- 08 RBM 85#",
+"unit": "EA"
+},
+{
+"id": "31410-222",
+"code": "31410",
+"category": "Turnout- #08 RBM Package",
+"name": "Turnout Steel Package- 08 RBM 90#",
+"unit": "EA"
+},
+{
+"id": "31411-223",
+"code": "31411",
+"category": "Turnout- #08 SMSG Package",
+"name": "Turnout Steel Package- 08 SMSG 100#",
+"unit": "EA"
+},
+{
+"id": "31411-224",
+"code": "31411",
+"category": "Turnout- #08 SMSG Package",
+"name": "Turnout Steel Package- 08 SMSG 112#",
+"unit": "EA"
+},
+{
+"id": "31411-225",
+"code": "31411",
+"category": "Turnout- #08 SMSG Package",
+"name": "Turnout Steel Package- 08 SMSG 115#",
+"unit": "EA"
+},
+{
+"id": "31411-226",
+"code": "31411",
+"category": "Turnout- #08 SMSG Package",
+"name": "Turnout Steel Package- 08 SMSG 132#",
+"unit": "EA"
+},
+{
+"id": "31411-227",
+"code": "31411",
+"category": "Turnout- #08 SMSG Package",
+"name": "Turnout Steel Package- 08 SMSG 136#",
+"unit": "EA"
+},
+{
+"id": "31411-228",
+"code": "31411",
+"category": "Turnout- #08 SMSG Package",
+"name": "Turnout Steel Package- 08 SMSG 141#",
+"unit": "EA"
+},
+{
+"id": "31411-229",
+"code": "31411",
+"category": "Turnout- #08 SMSG Package",
+"name": "Turnout Steel Package- 08 SMSG 85#",
+"unit": "EA"
+},
+{
+"id": "31411-230",
+"code": "31411",
+"category": "Turnout- #08 SMSG Package",
+"name": "Turnout Steel Package- 08 SMSG 90#",
+"unit": "EA"
+},
+{
+"id": "31412-231",
+"code": "31412",
+"category": "Turnout- #09 R-B Package",
+"name": "Turnout Steel Package- 09 Rigid Bolted 100#",
+"unit": "EA"
+},
+{
+"id": "31412-232",
+"code": "31412",
+"category": "Turnout- #09 R-B Package",
+"name": "Turnout Steel Package- 09 Rigid Bolted 112#",
+"unit": "EA"
+},
+{
+"id": "31412-233",
+"code": "31412",
+"category": "Turnout- #09 R-B Package",
+"name": "Turnout Steel Package- 09 Rigid Bolted 115#",
+"unit": "EA"
+},
+{
+"id": "31412-234",
+"code": "31412",
+"category": "Turnout- #09 R-B Package",
+"name": "Turnout Steel Package- 09 Rigid Bolted 132#",
+"unit": "EA"
+},
+{
+"id": "31412-235",
+"code": "31412",
+"category": "Turnout- #09 R-B Package",
+"name": "Turnout Steel Package- 09 Rigid Bolted 136#",
+"unit": "EA"
+},
+{
+"id": "31412-236",
+"code": "31412",
+"category": "Turnout- #09 R-B Package",
+"name": "Turnout Steel Package- 09 Rigid Bolted 141#",
+"unit": "EA"
+},
+{
+"id": "31412-237",
+"code": "31412",
+"category": "Turnout- #09 R-B Package",
+"name": "Turnout Steel Package- 09 Rigid Bolted 85#",
+"unit": "EA"
+},
+{
+"id": "31412-238",
+"code": "31412",
+"category": "Turnout- #09 R-B Package",
+"name": "Turnout Steel Package- 09 Rigid Bolted 90#",
+"unit": "EA"
+},
+{
+"id": "31413-239",
+"code": "31413",
+"category": "Turnout- #09 RBM Package",
+"name": "Turnout Steel Package- 09 RBM 100#",
+"unit": "EA"
+},
+{
+"id": "31413-240",
+"code": "31413",
+"category": "Turnout- #09 RBM Package",
+"name": "Turnout Steel Package- 09 RBM 112#",
+"unit": "EA"
+},
+{
+"id": "31413-241",
+"code": "31413",
+"category": "Turnout- #09 RBM Package",
+"name": "Turnout Steel Package- 09 RBM 115#",
+"unit": "EA"
+},
+{
+"id": "31413-242",
+"code": "31413",
+"category": "Turnout- #09 RBM Package",
+"name": "Turnout Steel Package- 09 RBM 132#",
+"unit": "EA"
+},
+{
+"id": "31413-243",
+"code": "31413",
+"category": "Turnout- #09 RBM Package",
+"name": "Turnout Steel Package- 09 RBM 136#",
+"unit": "EA"
+},
+{
+"id": "31413-244",
+"code": "31413",
+"category": "Turnout- #09 RBM Package",
+"name": "Turnout Steel Package- 09 RBM 141#",
+"unit": "EA"
+},
+{
+"id": "31413-245",
+"code": "31413",
+"category": "Turnout- #09 RBM Package",
+"name": "Turnout Steel Package- 09 RBM 85#",
+"unit": "EA"
+},
+{
+"id": "31413-246",
+"code": "31413",
+"category": "Turnout- #09 RBM Package",
+"name": "Turnout Steel Package- 09 RBM 90#",
+"unit": "EA"
+},
+{
+"id": "31414-247",
+"code": "31414",
+"category": "Turnout- #09 SMSG Package",
+"name": "Turnout Steel Package- 09 SMSG 100#",
+"unit": "EA"
+},
+{
+"id": "31414-248",
+"code": "31414",
+"category": "Turnout- #09 SMSG Package",
+"name": "Turnout Steel Package- 09 SMSG 112#",
+"unit": "EA"
+},
+{
+"id": "31414-249",
+"code": "31414",
+"category": "Turnout- #09 SMSG Package",
+"name": "Turnout Steel Package- 09 SMSG 115#",
+"unit": "EA"
+},
+{
+"id": "31414-250",
+"code": "31414",
+"category": "Turnout- #09 SMSG Package",
+"name": "Turnout Steel Package- 09 SMSG 132#",
+"unit": "EA"
+},
+{
+"id": "31414-251",
+"code": "31414",
+"category": "Turnout- #09 SMSG Package",
+"name": "Turnout Steel Package- 09 SMSG 136#",
+"unit": "EA"
+},
+{
+"id": "31414-252",
+"code": "31414",
+"category": "Turnout- #09 SMSG Package",
+"name": "Turnout Steel Package- 09 SMSG 141#",
+"unit": "EA"
+},
+{
+"id": "31414-253",
+"code": "31414",
+"category": "Turnout- #09 SMSG Package",
+"name": "Turnout Steel Package- 09 SMSG 85#",
+"unit": "EA"
+},
+{
+"id": "31414-254",
+"code": "31414",
+"category": "Turnout- #09 SMSG Package",
+"name": "Turnout Steel Package- 09 SMSG 90#",
+"unit": "EA"
+},
+{
+"id": "31415-255",
+"code": "31415",
+"category": "Turnout- #10 R-B Package",
+"name": "Turnout Steel Package- 10 Rigid Bolted 100#",
+"unit": "EA"
+},
+{
+"id": "31415-256",
+"code": "31415",
+"category": "Turnout- #10 R-B Package",
+"name": "Turnout Steel Package- 10 Rigid Bolted 112#",
+"unit": "EA"
+},
+{
+"id": "31415-257",
+"code": "31415",
+"category": "Turnout- #10 R-B Package",
+"name": "Turnout Steel Package- 10 Rigid Bolted 115#",
+"unit": "EA"
+},
+{
+"id": "31415-258",
+"code": "31415",
+"category": "Turnout- #10 R-B Package",
+"name": "Turnout Steel Package- 10 Rigid Bolted 132#",
+"unit": "EA"
+},
+{
+"id": "31415-259",
+"code": "31415",
+"category": "Turnout- #10 R-B Package",
+"name": "Turnout Steel Package- 10 Rigid Bolted 136#",
+"unit": "EA"
+},
+{
+"id": "31415-260",
+"code": "31415",
+"category": "Turnout- #10 R-B Package",
+"name": "Turnout Steel Package- 10 Rigid Bolted 141#",
+"unit": "EA"
+},
+{
+"id": "31415-261",
+"code": "31415",
+"category": "Turnout- #10 R-B Package",
+"name": "Turnout Steel Package- 10 Rigid Bolted 85#",
+"unit": "EA"
+},
+{
+"id": "31415-262",
+"code": "31415",
+"category": "Turnout- #10 R-B Package",
+"name": "Turnout Steel Package- 10 Rigid Bolted 90#",
+"unit": "EA"
+},
+{
+"id": "31416-263",
+"code": "31416",
+"category": "Turnout- #10 RBM Package",
+"name": "Turnout Steel Package- 10 RBM 100#",
+"unit": "EA"
+},
+{
+"id": "31416-264",
+"code": "31416",
+"category": "Turnout- #10 RBM Package",
+"name": "Turnout Steel Package- 10 RBM 112#",
+"unit": "EA"
+},
+{
+"id": "31416-265",
+"code": "31416",
+"category": "Turnout- #10 RBM Package",
+"name": "Turnout Steel Package- 10 RBM 115#",
+"unit": "EA"
+},
+{
+"id": "31416-266",
+"code": "31416",
+"category": "Turnout- #10 RBM Package",
+"name": "Turnout Steel Package- 10 RBM 132#",
+"unit": "EA"
+},
+{
+"id": "31416-267",
+"code": "31416",
+"category": "Turnout- #10 RBM Package",
+"name": "Turnout Steel Package- 10 RBM 136#",
+"unit": "EA"
+},
+{
+"id": "31416-268",
+"code": "31416",
+"category": "Turnout- #10 RBM Package",
+"name": "Turnout Steel Package- 10 RBM 141#",
+"unit": "EA"
+},
+{
+"id": "31416-269",
+"code": "31416",
+"category": "Turnout- #10 RBM Package",
+"name": "Turnout Steel Package- 10 RBM 85#",
+"unit": "EA"
+},
+{
+"id": "31416-270",
+"code": "31416",
+"category": "Turnout- #10 RBM Package",
+"name": "Turnout Steel Package- 10 RBM 90#",
+"unit": "EA"
+},
+{
+"id": "31417-271",
+"code": "31417",
+"category": "Turnout- #10 SMSG Package",
+"name": "Turnout Steel Package- 10 SMSG 100#",
+"unit": "EA"
+},
+{
+"id": "31417-272",
+"code": "31417",
+"category": "Turnout- #10 SMSG Package",
+"name": "Turnout Steel Package- 10 SMSG 112#",
+"unit": "EA"
+},
+{
+"id": "31417-273",
+"code": "31417",
+"category": "Turnout- #10 SMSG Package",
+"name": "Turnout Steel Package- 10 SMSG 115#",
+"unit": "EA"
+},
+{
+"id": "31417-274",
+"code": "31417",
+"category": "Turnout- #10 SMSG Package",
+"name": "Turnout Steel Package- 10 SMSG 132#",
+"unit": "EA"
+},
+{
+"id": "31417-275",
+"code": "31417",
+"category": "Turnout- #10 SMSG Package",
+"name": "Turnout Steel Package- 10 SMSG 136#",
+"unit": "EA"
+},
+{
+"id": "31417-276",
+"code": "31417",
+"category": "Turnout- #10 SMSG Package",
+"name": "Turnout Steel Package- 10 SMSG 141#",
+"unit": "EA"
+},
+{
+"id": "31417-277",
+"code": "31417",
+"category": "Turnout- #10 SMSG Package",
+"name": "Turnout Steel Package- 10 SMSG 85#",
+"unit": "EA"
+},
+{
+"id": "31417-278",
+"code": "31417",
+"category": "Turnout- #10 SMSG Package",
+"name": "Turnout Steel Package- 10 SMSG 90#",
+"unit": "EA"
+},
+{
+"id": "31418-279",
+"code": "31418",
+"category": "Turnout- #11 R-B Package",
+"name": "Turnout Steel Package- 11 Rigid Bolted 100#",
+"unit": "EA"
+},
+{
+"id": "31418-280",
+"code": "31418",
+"category": "Turnout- #11 R-B Package",
+"name": "Turnout Steel Package- 11 Rigid Bolted 112#",
+"unit": "EA"
+},
+{
+"id": "31418-281",
+"code": "31418",
+"category": "Turnout- #11 R-B Package",
+"name": "Turnout Steel Package- 11 Rigid Bolted 115#",
+"unit": "EA"
+},
+{
+"id": "31418-282",
+"code": "31418",
+"category": "Turnout- #11 R-B Package",
+"name": "Turnout Steel Package- 11 Rigid Bolted 132#",
+"unit": "EA"
+},
+{
+"id": "31418-283",
+"code": "31418",
+"category": "Turnout- #11 R-B Package",
+"name": "Turnout Steel Package- 11 Rigid Bolted 136#",
+"unit": "EA"
+},
+{
+"id": "31418-284",
+"code": "31418",
+"category": "Turnout- #11 R-B Package",
+"name": "Turnout Steel Package- 11 Rigid Bolted 141#",
+"unit": "EA"
+},
+{
+"id": "31418-285",
+"code": "31418",
+"category": "Turnout- #11 R-B Package",
+"name": "Turnout Steel Package- 11 Rigid Bolted 85#",
+"unit": "EA"
+},
+{
+"id": "31418-286",
+"code": "31418",
+"category": "Turnout- #11 R-B Package",
+"name": "Turnout Steel Package- 11 Rigid Bolted 90#",
+"unit": "EA"
+},
+{
+"id": "31419-287",
+"code": "31419",
+"category": "Turnout- #11 RBM Package",
+"name": "Turnout Steel Package- 11 RBM 100#",
+"unit": "EA"
+},
+{
+"id": "31419-288",
+"code": "31419",
+"category": "Turnout- #11 RBM Package",
+"name": "Turnout Steel Package- 11 RBM 112#",
+"unit": "EA"
+},
+{
+"id": "31419-289",
+"code": "31419",
+"category": "Turnout- #11 RBM Package",
+"name": "Turnout Steel Package- 11 RBM 115#",
+"unit": "EA"
+},
+{
+"id": "31419-290",
+"code": "31419",
+"category": "Turnout- #11 RBM Package",
+"name": "Turnout Steel Package- 11 RBM 132#",
+"unit": "EA"
+},
+{
+"id": "31419-291",
+"code": "31419",
+"category": "Turnout- #11 RBM Package",
+"name": "Turnout Steel Package- 11 RBM 136#",
+"unit": "EA"
+},
+{
+"id": "31419-292",
+"code": "31419",
+"category": "Turnout- #11 RBM Package",
+"name": "Turnout Steel Package- 11 RBM 141#",
+"unit": "EA"
+},
+{
+"id": "31419-293",
+"code": "31419",
+"category": "Turnout- #11 RBM Package",
+"name": "Turnout Steel Package- 11 RBM 85#",
+"unit": "EA"
+},
+{
+"id": "31419-294",
+"code": "31419",
+"category": "Turnout- #11 RBM Package",
+"name": "Turnout Steel Package- 11 RBM 90#",
+"unit": "EA"
+},
+{
+"id": "31420-295",
+"code": "31420",
+"category": "Turnout- #11 SMSG Package",
+"name": "Turnout Steel Package- 11 SMSG 100#",
+"unit": "EA"
+},
+{
+"id": "31420-296",
+"code": "31420",
+"category": "Turnout- #11 SMSG Package",
+"name": "Turnout Steel Package- 11 SMSG 112#",
+"unit": "EA"
+},
+{
+"id": "31420-297",
+"code": "31420",
+"category": "Turnout- #11 SMSG Package",
+"name": "Turnout Steel Package- 11 SMSG 115#",
+"unit": "EA"
+},
+{
+"id": "31420-298",
+"code": "31420",
+"category": "Turnout- #11 SMSG Package",
+"name": "Turnout Steel Package- 11 SMSG 132#",
+"unit": "EA"
+},
+{
+"id": "31420-299",
+"code": "31420",
+"category": "Turnout- #11 SMSG Package",
+"name": "Turnout Steel Package- 11 SMSG 136#",
+"unit": "EA"
+},
+{
+"id": "31420-300",
+"code": "31420",
+"category": "Turnout- #11 SMSG Package",
+"name": "Turnout Steel Package- 11 SMSG 141#",
+"unit": "EA"
+},
+{
+"id": "31420-301",
+"code": "31420",
+"category": "Turnout- #11 SMSG Package",
+"name": "Turnout Steel Package- 11 SMSG 85#",
+"unit": "EA"
+},
+{
+"id": "31420-302",
+"code": "31420",
+"category": "Turnout- #11 SMSG Package",
+"name": "Turnout Steel Package- 11 SMSG 90#",
+"unit": "EA"
+},
+{
+"id": "31421-303",
+"code": "31421",
+"category": "Turnout- #12 R-B Package",
+"name": "Turnout- #12 R-B Package",
+"unit": "EA"
+},
+{
+"id": "31422-304",
+"code": "31422",
+"category": "Turnout- #12 RBM Package",
+"name": "Turnout- #12 RBM Package",
+"unit": "EA"
+},
+{
+"id": "31423-305",
+"code": "31423",
+"category": "Turnout- #12 SMSG Package",
+"name": "Turnout- #12 SMSG Package",
+"unit": "EA"
+},
+{
+"id": "31424-306",
+"code": "31424",
+"category": "Turnout- Bracing Adjustable Package",
+"name": "Turnout- Bracing Adjustable Package",
+"unit": "EA"
+},
+{
+"id": "31425-307",
+"code": "31425",
+"category": "Turnout- Bracing Rigid Package",
+"name": "Turnout- Bracing Rigid Package",
+"unit": "EA"
+},
+{
+"id": "31426-308",
+"code": "31426",
+"category": "Turnout- Heel Bolts",
+"name": "Turnout- Heel Bolts",
+"unit": "PR"
+},
+{
+"id": "31427-309",
+"code": "31427",
+"category": "Turnout- Heel Fixed",
+"name": "Turnout- Heel Fixed",
+"unit": "PR"
+},
+{
+"id": "31428-310",
+"code": "31428",
+"category": "Turnout- Heel Float",
+"name": "Turnout- Heel Float",
+"unit": "PR"
+},
+{
+"id": "31429-311",
+"code": "31429",
+"category": "Turnout- Guard Rails",
+"name": "Turnout- Guard Rail 100 11'0\"",
+"unit": "PR"
+},
+{
+"id": "31429-312",
+"code": "31429",
+"category": "Turnout- Guard Rails",
+"name": "Turnout- Guard Rail 100 8'3\"",
+"unit": "PR"
+},
+{
+"id": "31429-313",
+"code": "31429",
+"category": "Turnout- Guard Rails",
+"name": "Turnout- Guard Rail 115 11'0\"",
+"unit": "PR"
+},
+{
+"id": "31430-314",
+"code": "31430",
+"category": "Turnout- Point Guards",
+"name": "Turnout- Point Guard 100 3'0\"",
+"unit": "EA"
+},
+{
+"id": "31431-315",
+"code": "31431",
+"category": "Turnout- Point Rollers",
+"name": "Turnout- Point Rollers",
+"unit": "ST"
+},
+{
+"id": "31432-316",
+"code": "31432",
+"category": "Turnout- Rod #01",
+"name": "Turnout- Rod #01",
+"unit": "EA"
+},
+{
+"id": "31433-317",
+"code": "31433",
+"category": "Turnout- Rod #02",
+"name": "Turnout- Rod #02",
+"unit": "EA"
+},
+{
+"id": "31434-318",
+"code": "31434",
+"category": "Turnout- Rod Connecting",
+"name": "Turnout- Rod Connecting",
+"unit": "EA"
+},
+{
+"id": "31435-319",
+"code": "31435",
+"category": "Turnout- Stand 22E",
+"name": "Turnout- 22E Stand New",
+"unit": "EA"
+},
+{
+"id": "31435-320",
+"code": "31435",
+"category": "Turnout- Stand 22E",
+"name": "Turnout- 22E Stand Relay",
+"unit": "EA"
+},
+{
+"id": "31436-321",
+"code": "31436",
+"category": "Turnout- Stand 51A",
+"name": "Turnout- 51A Stand New",
+"unit": "EA"
+},
+{
+"id": "31436-322",
+"code": "31436",
+"category": "Turnout- Stand 51A",
+"name": "Turnout- 51A Stand Relay",
+"unit": "EA"
+},
+{
+"id": "31437-323",
+"code": "31437",
+"category": "Turnout- Stand Hi-Banner",
+"name": "Turnout- Mainline Hi-Banner Stand New",
+"unit": "EA"
+},
+{
+"id": "31437-324",
+"code": "31437",
+"category": "Turnout- Stand Hi-Banner",
+"name": "Turnout- Mainline Hi-Banner Stand Relay",
+"unit": "EA"
+},
+{
+"id": "31438-325",
+"code": "31438",
+"category": "Turnout- Stand Targets",
+"name": "Turnout- Switchstand Targets",
+"unit": "EA"
+},
+{
+"id": "31439-326",
+"code": "31439",
+"category": "Turnout- Stand Misc Parts",
+"name": "Stands- Crank Double",
+"unit": "EA"
+},
+{
+"id": "31439-327",
+"code": "31439",
+"category": "Turnout- Stand Misc Parts",
+"name": "Stands- Crank Single",
+"unit": "EA"
+},
+{
+"id": "31439-328",
+"code": "31439",
+"category": "Turnout- Stand Misc Parts",
+"name": "Stands- Gear",
+"unit": "EA"
+},
+{
+"id": "31439-329",
+"code": "31439",
+"category": "Turnout- Stand Misc Parts",
+"name": "Stands- Spindles",
+"unit": "EA"
+},
+{
+"id": "31440-330",
+"code": "31440",
+"category": "Turnout- Straps Frog",
+"name": "Turnout- Straps Frog",
+"unit": "EA"
+},
+{
+"id": "31441-331",
+"code": "31441",
+"category": "Turnout- Straps Heel",
+"name": "Turnout- Straps Heel",
+"unit": "EA"
+},
+{
+"id": "31442-332",
+"code": "31442",
+"category": "Turnout- Switchpoint Knife LH",
+"name": "Switch Point- 15'0\" 100 Relay Knife LH",
+"unit": "EA"
+},
+{
+"id": "31442-333",
+"code": "31442",
+"category": "Turnout- Switchpoint Knife LH",
+"name": "Switch Point- 15'0\" 80 Relay Knife LH",
+"unit": "EA"
+},
+{
+"id": "31442-334",
+"code": "31442",
+"category": "Turnout- Switchpoint Knife LH",
+"name": "Switch Point- 15'0\" 85 Relay Knife LH",
+"unit": "EA"
+},
+{
+"id": "31442-335",
+"code": "31442",
+"category": "Turnout- Switchpoint Knife LH",
+"name": "Switch Point- 16'6\" 100 New Knife LH",
+"unit": "EA"
+},
+{
+"id": "31442-336",
+"code": "31442",
+"category": "Turnout- Switchpoint Knife LH",
+"name": "Switch Point- 16'6\" 100 Relay Knife LH",
+"unit": "EA"
+},
+{
+"id": "31442-337",
+"code": "31442",
+"category": "Turnout- Switchpoint Knife LH",
+"name": "Switch Point- 16'6\" 112 New Knife LH",
+"unit": "EA"
+},
+{
+"id": "31442-338",
+"code": "31442",
+"category": "Turnout- Switchpoint Knife LH",
+"name": "Switch Point- 16'6\" 112 Relay Knife LH",
+"unit": "EA"
+},
+{
+"id": "31442-339",
+"code": "31442",
+"category": "Turnout- Switchpoint Knife LH",
+"name": "Switch Point- 16'6\" 115 New Knife LH",
+"unit": "EA"
+},
+{
+"id": "31442-340",
+"code": "31442",
+"category": "Turnout- Switchpoint Knife LH",
+"name": "Switch Point- 16'6\" 115 Relay Knife LH",
+"unit": "EA"
+},
+{
+"id": "31442-341",
+"code": "31442",
+"category": "Turnout- Switchpoint Knife LH",
+"name": "Switch Point- 16'6\" 132 New Knife LH",
+"unit": "EA"
+},
+{
+"id": "31442-342",
+"code": "31442",
+"category": "Turnout- Switchpoint Knife LH",
+"name": "Switch Point- 16'6\" 132 Relay Knife LH",
+"unit": "EA"
+},
+{
+"id": "31442-343",
+"code": "31442",
+"category": "Turnout- Switchpoint Knife LH",
+"name": "Switch Point- 16'6\" 136 New Knife LH",
+"unit": "EA"
+},
+{
+"id": "31442-344",
+"code": "31442",
+"category": "Turnout- Switchpoint Knife LH",
+"name": "Switch Point- 16'6\" 136 Relay Knife LH",
+"unit": "EA"
+},
+{
+"id": "31442-345",
+"code": "31442",
+"category": "Turnout- Switchpoint Knife LH",
+"name": "Switch Point- 16'6\" 141 New Knife LH",
+"unit": "EA"
+},
+{
+"id": "31442-346",
+"code": "31442",
+"category": "Turnout- Switchpoint Knife LH",
+"name": "Switch Point- 16'6\" 141 Relay Knife LH",
+"unit": "EA"
+},
+{
+"id": "31442-347",
+"code": "31442",
+"category": "Turnout- Switchpoint Knife LH",
+"name": "Switch Point- Other New Knife LH",
+"unit": "EA"
+},
+{
+"id": "31443-348",
+"code": "31443",
+"category": "Turnout- Switchpoint Knife RH",
+"name": "Switch Point- 15'0\" 100 Relay Knife RH",
+"unit": "EA"
+},
+{
+"id": "31443-349",
+"code": "31443",
+"category": "Turnout- Switchpoint Knife RH",
+"name": "Switch Point- 15'0\" 80 Relay Knife RH",
+"unit": "EA"
+},
+{
+"id": "31443-350",
+"code": "31443",
+"category": "Turnout- Switchpoint Knife RH",
+"name": "Switch Point- 15'0\" 85 Relay Knife RH",
+"unit": "EA"
+},
+{
+"id": "31443-351",
+"code": "31443",
+"category": "Turnout- Switchpoint Knife RH",
+"name": "Switch Point- 16'6\" 100 New Knife RH",
+"unit": "EA"
+},
+{
+"id": "31443-352",
+"code": "31443",
+"category": "Turnout- Switchpoint Knife RH",
+"name": "Switch Point- 16'6\" 100 Relay Knife RH",
+"unit": "EA"
+},
+{
+"id": "31443-353",
+"code": "31443",
+"category": "Turnout- Switchpoint Knife RH",
+"name": "Switch Point- 16'6\" 112 New Knife RH",
+"unit": "EA"
+},
+{
+"id": "31443-354",
+"code": "31443",
+"category": "Turnout- Switchpoint Knife RH",
+"name": "Switch Point- 16'6\" 112 Relay Knife RH",
+"unit": "EA"
+},
+{
+"id": "31443-355",
+"code": "31443",
+"category": "Turnout- Switchpoint Knife RH",
+"name": "Switch Point- 16'6\" 115 New Knife RH",
+"unit": "EA"
+},
+{
+"id": "31443-356",
+"code": "31443",
+"category": "Turnout- Switchpoint Knife RH",
+"name": "Switch Point- 16'6\" 115 Relay Knife RH",
+"unit": "EA"
+},
+{
+"id": "31443-357",
+"code": "31443",
+"category": "Turnout- Switchpoint Knife RH",
+"name": "Switch Point- 16'6\" 132 New Knife RH",
+"unit": "EA"
+},
+{
+"id": "31443-358",
+"code": "31443",
+"category": "Turnout- Switchpoint Knife RH",
+"name": "Switch Point- 16'6\" 132 Relay Knife RH",
+"unit": "EA"
+},
+{
+"id": "31443-359",
+"code": "31443",
+"category": "Turnout- Switchpoint Knife RH",
+"name": "Switch Point- 16'6\" 136 New Knife RH",
+"unit": "EA"
+},
+{
+"id": "31443-360",
+"code": "31443",
+"category": "Turnout- Switchpoint Knife RH",
+"name": "Switch Point- 16'6\" 136 Relay Knife RH",
+"unit": "EA"
+},
+{
+"id": "31443-361",
+"code": "31443",
+"category": "Turnout- Switchpoint Knife RH",
+"name": "Switch Point- 16'6\" 141 New Knife RH",
+"unit": "EA"
+},
+{
+"id": "31443-362",
+"code": "31443",
+"category": "Turnout- Switchpoint Knife RH",
+"name": "Switch Point- 16'6\" 141 Relay Knife RH",
+"unit": "EA"
+},
+{
+"id": "31443-363",
+"code": "31443",
+"category": "Turnout- Switchpoint Knife RH",
+"name": "Switch Point- Other New Knife RH",
+"unit": "EA"
+},
+{
+"id": "31444-364",
+"code": "31444",
+"category": "Turnout- Switchpoint Samson LH",
+"name": "Switch Point- 16'6\" 100 New Samson LH",
+"unit": "EA"
+},
+{
+"id": "31444-365",
+"code": "31444",
+"category": "Turnout- Switchpoint Samson LH",
+"name": "Switch Point- 16'6\" 100 Relay Samson LH",
+"unit": "EA"
+},
+{
+"id": "31444-366",
+"code": "31444",
+"category": "Turnout- Switchpoint Samson LH",
+"name": "Switch Point- 16'6\" 112 New Samson LH",
+"unit": "EA"
+},
+{
+"id": "31444-367",
+"code": "31444",
+"category": "Turnout- Switchpoint Samson LH",
+"name": "Switch Point- 16'6\" 112 Relay Samson LH",
+"unit": "EA"
+},
+{
+"id": "31444-368",
+"code": "31444",
+"category": "Turnout- Switchpoint Samson LH",
+"name": "Switch Point- 16'6\" 115 New Samson LH",
+"unit": "EA"
+},
+{
+"id": "31444-369",
+"code": "31444",
+"category": "Turnout- Switchpoint Samson LH",
+"name": "Switch Point- 16'6\" 115 Relay Samson LH",
+"unit": "EA"
+},
+{
+"id": "31444-370",
+"code": "31444",
+"category": "Turnout- Switchpoint Samson LH",
+"name": "Switch Point- 16'6\" 132 New Samson LH",
+"unit": "EA"
+},
+{
+"id": "31444-371",
+"code": "31444",
+"category": "Turnout- Switchpoint Samson LH",
+"name": "Switch Point- 16'6\" 132 Relay Samson LH",
+"unit": "EA"
+},
+{
+"id": "31444-372",
+"code": "31444",
+"category": "Turnout- Switchpoint Samson LH",
+"name": "Switch Point- 16'6\" 136 New Samson LH",
+"unit": "EA"
+},
+{
+"id": "31444-373",
+"code": "31444",
+"category": "Turnout- Switchpoint Samson LH",
+"name": "Switch Point- 16'6\" 136 Relay Samson LH",
+"unit": "EA"
+},
+{
+"id": "31444-374",
+"code": "31444",
+"category": "Turnout- Switchpoint Samson LH",
+"name": "Switch Point- 16'6\" 141 New Samson LH",
+"unit": "EA"
+},
+{
+"id": "31444-375",
+"code": "31444",
+"category": "Turnout- Switchpoint Samson LH",
+"name": "Switch Point- 16'6\" 141 Relay Samson LH",
+"unit": "EA"
+},
+{
+"id": "31444-376",
+"code": "31444",
+"category": "Turnout- Switchpoint Samson LH",
+"name": "Switch Point- Other New Samson LH",
+"unit": "EA"
+},
+{
+"id": "31445-377",
+"code": "31445",
+"category": "Turnout- Switchpoint Samson RH",
+"name": "Switch Point- 16'6\" 100 New Samson RH",
+"unit": "EA"
+},
+{
+"id": "31445-378",
+"code": "31445",
+"category": "Turnout- Switchpoint Samson RH",
+"name": "Switch Point- 16'6\" 100 Relay Samson RH",
+"unit": "EA"
+},
+{
+"id": "31445-379",
+"code": "31445",
+"category": "Turnout- Switchpoint Samson RH",
+"name": "Switch Point- 16'6\" 112 New Samson RH",
+"unit": "EA"
+},
+{
+"id": "31445-380",
+"code": "31445",
+"category": "Turnout- Switchpoint Samson RH",
+"name": "Switch Point- 16'6\" 112 Relay Samson RH",
+"unit": "EA"
+},
+{
+"id": "31445-381",
+"code": "31445",
+"category": "Turnout- Switchpoint Samson RH",
+"name": "Switch Point- 16'6\" 115 New Samson RH",
+"unit": "EA"
+},
+{
+"id": "31445-382",
+"code": "31445",
+"category": "Turnout- Switchpoint Samson RH",
+"name": "Switch Point- 16'6\" 115 Relay Samson RH",
+"unit": "EA"
+},
+{
+"id": "31445-383",
+"code": "31445",
+"category": "Turnout- Switchpoint Samson RH",
+"name": "Switch Point- 16'6\" 132 New Samson RH",
+"unit": "EA"
+},
+{
+"id": "31445-384",
+"code": "31445",
+"category": "Turnout- Switchpoint Samson RH",
+"name": "Switch Point- 16'6\" 132 Relay Samson RH",
+"unit": "EA"
+},
+{
+"id": "31445-385",
+"code": "31445",
+"category": "Turnout- Switchpoint Samson RH",
+"name": "Switch Point- 16'6\" 136 New Samson RH",
+"unit": "EA"
+},
+{
+"id": "31445-386",
+"code": "31445",
+"category": "Turnout- Switchpoint Samson RH",
+"name": "Switch Point- 16'6\" 136 Relay Samson RH",
+"unit": "EA"
+},
+{
+"id": "31445-387",
+"code": "31445",
+"category": "Turnout- Switchpoint Samson RH",
+"name": "Switch Point- 16'6\" 141 New Samson RH",
+"unit": "EA"
+},
+{
+"id": "31445-388",
+"code": "31445",
+"category": "Turnout- Switchpoint Samson RH",
+"name": "Switch Point- 16'6\" 141 Relay Samson RH",
+"unit": "EA"
+},
+{
+"id": "31445-389",
+"code": "31445",
+"category": "Turnout- Switchpoint Samson RH",
+"name": "Switch Point- Other New Samson RH",
+"unit": "EA"
+},
+{
+"id": "31446-390",
+"code": "31446",
+"category": "Turnout- Switchpoint Brace Package",
+"name": "Switch Point- Brace Assembly w/ Wedges for 6\" Plates",
+"unit": "EA"
+},
+{
+"id": "31447-391",
+"code": "31447",
+"category": "Turnout- Switchpoint Misc Parts",
+"name": "Switch Point- Cuff/ Trans Clip 4-Hole 6\" Rail",
+"unit": "EA"
+},
+{
+"id": "31448-392",
+"code": "31448",
+"category": "Frog- #08 R-B New",
+"name": "Frog- 08 Rigid Bolted 100#",
+"unit": "EA"
+},
+{
+"id": "31448-393",
+"code": "31448",
+"category": "Frog- #08 R-B New",
+"name": "Frog- 08 Rigid Bolted 112#",
+"unit": "EA"
+},
+{
+"id": "31448-394",
+"code": "31448",
+"category": "Frog- #08 R-B New",
+"name": "Frog- 08 Rigid Bolted 115#",
+"unit": "EA"
+},
+{
+"id": "31448-395",
+"code": "31448",
+"category": "Frog- #08 R-B New",
+"name": "Frog- 08 Rigid Bolted 132#",
+"unit": "EA"
+},
+{
+"id": "31448-396",
+"code": "31448",
+"category": "Frog- #08 R-B New",
+"name": "Frog- 08 Rigid Bolted 136#",
+"unit": "EA"
+},
+{
+"id": "31448-397",
+"code": "31448",
+"category": "Frog- #08 R-B New",
+"name": "Frog- 08 Rigid Bolted 141#",
+"unit": "EA"
+},
+{
+"id": "31448-398",
+"code": "31448",
+"category": "Frog- #08 R-B New",
+"name": "Frog- 08 Rigid Bolted 85#",
+"unit": "EA"
+},
+{
+"id": "31448-399",
+"code": "31448",
+"category": "Frog- #08 R-B New",
+"name": "Frog- 08 Rigid Bolted 90#",
+"unit": "EA"
+},
+{
+"id": "31449-400",
+"code": "31449",
+"category": "Frog- #08 R-B Relay",
+"name": "Frog- #08 R-B Relay",
+"unit": "EA"
+},
+{
+"id": "31450-401",
+"code": "31450",
+"category": "Frog- #08 RBM New",
+"name": "Frog- 08 Rail Bound Manganese 100#",
+"unit": "EA"
+},
+{
+"id": "31450-402",
+"code": "31450",
+"category": "Frog- #08 RBM New",
+"name": "Frog- 08 Rail Bound Manganese 112#",
+"unit": "EA"
+},
+{
+"id": "31450-403",
+"code": "31450",
+"category": "Frog- #08 RBM New",
+"name": "Frog- 08 Rail Bound Manganese 115#",
+"unit": "EA"
+},
+{
+"id": "31450-404",
+"code": "31450",
+"category": "Frog- #08 RBM New",
+"name": "Frog- 08 Rail Bound Manganese 132#",
+"unit": "EA"
+},
+{
+"id": "31450-405",
+"code": "31450",
+"category": "Frog- #08 RBM New",
+"name": "Frog- 08 Rail Bound Manganese 136#",
+"unit": "EA"
+},
+{
+"id": "31450-406",
+"code": "31450",
+"category": "Frog- #08 RBM New",
+"name": "Frog- 08 Rail Bound Manganese 141#",
+"unit": "EA"
+},
+{
+"id": "31450-407",
+"code": "31450",
+"category": "Frog- #08 RBM New",
+"name": "Frog- 08 Rail Bound Manganese 85#",
+"unit": "EA"
+},
+{
+"id": "31450-408",
+"code": "31450",
+"category": "Frog- #08 RBM New",
+"name": "Frog- 08 Rail Bound Manganese 90#",
+"unit": "EA"
+},
+{
+"id": "31451-409",
+"code": "31451",
+"category": "Frog- #08 RBM Relay",
+"name": "Frog- #08 RBM Relay",
+"unit": "EA"
+},
+{
+"id": "31452-410",
+"code": "31452",
+"category": "Frog- #08 SMSG New",
+"name": "Frog- 08 SMSG 100#",
+"unit": "EA"
+},
+{
+"id": "31452-411",
+"code": "31452",
+"category": "Frog- #08 SMSG New",
+"name": "Frog- 08 SMSG 112#",
+"unit": "EA"
+},
+{
+"id": "31452-412",
+"code": "31452",
+"category": "Frog- #08 SMSG New",
+"name": "Frog- 08 SMSG 115#",
+"unit": "EA"
+},
+{
+"id": "31452-413",
+"code": "31452",
+"category": "Frog- #08 SMSG New",
+"name": "Frog- 08 SMSG 132#",
+"unit": "EA"
+},
+{
+"id": "31452-414",
+"code": "31452",
+"category": "Frog- #08 SMSG New",
+"name": "Frog- 08 SMSG 136#",
+"unit": "EA"
+},
+{
+"id": "31452-415",
+"code": "31452",
+"category": "Frog- #08 SMSG New",
+"name": "Frog- 08 SMSG 141#",
+"unit": "EA"
+},
+{
+"id": "31452-416",
+"code": "31452",
+"category": "Frog- #08 SMSG New",
+"name": "Frog- 08 SMSG 85#",
+"unit": "EA"
+},
+{
+"id": "31452-417",
+"code": "31452",
+"category": "Frog- #08 SMSG New",
+"name": "Frog- 08 SMSG 90#",
+"unit": "EA"
+},
+{
+"id": "31453-418",
+"code": "31453",
+"category": "Frog- #08 SMSG Relay",
+"name": "Frog- #08 SMSG Relay",
+"unit": "EA"
+},
+{
+"id": "31454-419",
+"code": "31454",
+"category": "Frog- #09 R-B New",
+"name": "Frog- 09 Rigid Bolted 100#",
+"unit": "EA"
+},
+{
+"id": "31454-420",
+"code": "31454",
+"category": "Frog- #09 R-B New",
+"name": "Frog- 09 Rigid Bolted 112#",
+"unit": "EA"
+},
+{
+"id": "31454-421",
+"code": "31454",
+"category": "Frog- #09 R-B New",
+"name": "Frog- 09 Rigid Bolted 115#",
+"unit": "EA"
+},
+{
+"id": "31454-422",
+"code": "31454",
+"category": "Frog- #09 R-B New",
+"name": "Frog- 09 Rigid Bolted 132#",
+"unit": "EA"
+},
+{
+"id": "31454-423",
+"code": "31454",
+"category": "Frog- #09 R-B New",
+"name": "Frog- 09 Rigid Bolted 136#",
+"unit": "EA"
+},
+{
+"id": "31454-424",
+"code": "31454",
+"category": "Frog- #09 R-B New",
+"name": "Frog- 09 Rigid Bolted 141#",
+"unit": "EA"
+},
+{
+"id": "31454-425",
+"code": "31454",
+"category": "Frog- #09 R-B New",
+"name": "Frog- 09 Rigid Bolted 85#",
+"unit": "EA"
+},
+{
+"id": "31454-426",
+"code": "31454",
+"category": "Frog- #09 R-B New",
+"name": "Frog- 09 Rigid Bolted 90#",
+"unit": "EA"
+},
+{
+"id": "31455-427",
+"code": "31455",
+"category": "Frog- #09 R-B Relay",
+"name": "Frog- #09 R-B Relay",
+"unit": "EA"
+},
+{
+"id": "31456-428",
+"code": "31456",
+"category": "Frog- #09 RBM New",
+"name": "Frog- 09 Rail Bound Manganese 100#",
+"unit": "EA"
+},
+{
+"id": "31456-429",
+"code": "31456",
+"category": "Frog- #09 RBM New",
+"name": "Frog- 09 Rail Bound Manganese 112#",
+"unit": "EA"
+},
+{
+"id": "31456-430",
+"code": "31456",
+"category": "Frog- #09 RBM New",
+"name": "Frog- 09 Rail Bound Manganese 115#",
+"unit": "EA"
+},
+{
+"id": "31456-431",
+"code": "31456",
+"category": "Frog- #09 RBM New",
+"name": "Frog- 09 Rail Bound Manganese 132#",
+"unit": "EA"
+},
+{
+"id": "31456-432",
+"code": "31456",
+"category": "Frog- #09 RBM New",
+"name": "Frog- 09 Rail Bound Manganese 136#",
+"unit": "EA"
+},
+{
+"id": "31456-433",
+"code": "31456",
+"category": "Frog- #09 RBM New",
+"name": "Frog- 09 Rail Bound Manganese 141#",
+"unit": "EA"
+},
+{
+"id": "31456-434",
+"code": "31456",
+"category": "Frog- #09 RBM New",
+"name": "Frog- 09 Rail Bound Manganese 85#",
+"unit": "EA"
+},
+{
+"id": "31456-435",
+"code": "31456",
+"category": "Frog- #09 RBM New",
+"name": "Frog- 09 Rail Bound Manganese 90#",
+"unit": "EA"
+},
+{
+"id": "31457-436",
+"code": "31457",
+"category": "Frog- #09 RBM Relay",
+"name": "Frog- #09 RBM Relay",
+"unit": "EA"
+},
+{
+"id": "31458-437",
+"code": "31458",
+"category": "Frog- #09 SMSG New",
+"name": "Frog- 09 SMSG 100#",
+"unit": "EA"
+},
+{
+"id": "31458-438",
+"code": "31458",
+"category": "Frog- #09 SMSG New",
+"name": "Frog- 09 SMSG 112#",
+"unit": "EA"
+},
+{
+"id": "31458-439",
+"code": "31458",
+"category": "Frog- #09 SMSG New",
+"name": "Frog- 09 SMSG 115#",
+"unit": "EA"
+},
+{
+"id": "31458-440",
+"code": "31458",
+"category": "Frog- #09 SMSG New",
+"name": "Frog- 09 SMSG 132#",
+"unit": "EA"
+},
+{
+"id": "31458-441",
+"code": "31458",
+"category": "Frog- #09 SMSG New",
+"name": "Frog- 09 SMSG 136#",
+"unit": "EA"
+},
+{
+"id": "31458-442",
+"code": "31458",
+"category": "Frog- #09 SMSG New",
+"name": "Frog- 09 SMSG 141#",
+"unit": "EA"
+},
+{
+"id": "31458-443",
+"code": "31458",
+"category": "Frog- #09 SMSG New",
+"name": "Frog- 09 SMSG 85#",
+"unit": "EA"
+},
+{
+"id": "31458-444",
+"code": "31458",
+"category": "Frog- #09 SMSG New",
+"name": "Frog- 09 SMSG 90#",
+"unit": "EA"
+},
+{
+"id": "31459-445",
+"code": "31459",
+"category": "Frog- #09 SMSG Relay",
+"name": "Frog- #09 SMSG Relay",
+"unit": "EA"
+},
+{
+"id": "31460-446",
+"code": "31460",
+"category": "Frog- #10 R-B  New",
+"name": "Frog- 10 Rigid Bolted 100#",
+"unit": "EA"
+},
+{
+"id": "31460-447",
+"code": "31460",
+"category": "Frog- #10 R-B  New",
+"name": "Frog- 10 Rigid Bolted 112#",
+"unit": "EA"
+},
+{
+"id": "31460-448",
+"code": "31460",
+"category": "Frog- #10 R-B  New",
+"name": "Frog- 10 Rigid Bolted 115#",
+"unit": "EA"
+},
+{
+"id": "31460-449",
+"code": "31460",
+"category": "Frog- #10 R-B  New",
+"name": "Frog- 10 Rigid Bolted 132#",
+"unit": "EA"
+},
+{
+"id": "31460-450",
+"code": "31460",
+"category": "Frog- #10 R-B  New",
+"name": "Frog- 10 Rigid Bolted 136#",
+"unit": "EA"
+},
+{
+"id": "31460-451",
+"code": "31460",
+"category": "Frog- #10 R-B  New",
+"name": "Frog- 10 Rigid Bolted 141#",
+"unit": "EA"
+},
+{
+"id": "31460-452",
+"code": "31460",
+"category": "Frog- #10 R-B  New",
+"name": "Frog- 10 Rigid Bolted 85#",
+"unit": "EA"
+},
+{
+"id": "31460-453",
+"code": "31460",
+"category": "Frog- #10 R-B  New",
+"name": "Frog- 10 Rigid Bolted 90#",
+"unit": "EA"
+},
+{
+"id": "31461-454",
+"code": "31461",
+"category": "Frog- #10 R-B  Relay",
+"name": "Frog- #10 R-B  Relay",
+"unit": "EA"
+},
+{
+"id": "31462-455",
+"code": "31462",
+"category": "Frog- #10 RBM New",
+"name": "Frog- 10 Rail Bound Manganese 100#",
+"unit": "EA"
+},
+{
+"id": "31462-456",
+"code": "31462",
+"category": "Frog- #10 RBM New",
+"name": "Frog- 10 Rail Bound Manganese 112#",
+"unit": "EA"
+},
+{
+"id": "31462-457",
+"code": "31462",
+"category": "Frog- #10 RBM New",
+"name": "Frog- 10 Rail Bound Manganese 115#",
+"unit": "EA"
+},
+{
+"id": "31462-458",
+"code": "31462",
+"category": "Frog- #10 RBM New",
+"name": "Frog- 10 Rail Bound Manganese 132#",
+"unit": "EA"
+},
+{
+"id": "31462-459",
+"code": "31462",
+"category": "Frog- #10 RBM New",
+"name": "Frog- 10 Rail Bound Manganese 136#",
+"unit": "EA"
+},
+{
+"id": "31462-460",
+"code": "31462",
+"category": "Frog- #10 RBM New",
+"name": "Frog- 10 Rail Bound Manganese 141#",
+"unit": "EA"
+},
+{
+"id": "31462-461",
+"code": "31462",
+"category": "Frog- #10 RBM New",
+"name": "Frog- 10 Rail Bound Manganese 85#",
+"unit": "EA"
+},
+{
+"id": "31462-462",
+"code": "31462",
+"category": "Frog- #10 RBM New",
+"name": "Frog- 10 Rail Bound Manganese 90#",
+"unit": "EA"
+},
+{
+"id": "31463-463",
+"code": "31463",
+"category": "Frog- #10 RBM Relay",
+"name": "Frog- #10 RBM Relay",
+"unit": "EA"
+},
+{
+"id": "31464-464",
+"code": "31464",
+"category": "Frog- #10 SMSG New",
+"name": "Frog- 10 SMSG 100#",
+"unit": "EA"
+},
+{
+"id": "31464-465",
+"code": "31464",
+"category": "Frog- #10 SMSG New",
+"name": "Frog- 10 SMSG 112#",
+"unit": "EA"
+},
+{
+"id": "31464-466",
+"code": "31464",
+"category": "Frog- #10 SMSG New",
+"name": "Frog- 10 SMSG 115#",
+"unit": "EA"
+},
+{
+"id": "31464-467",
+"code": "31464",
+"category": "Frog- #10 SMSG New",
+"name": "Frog- 10 SMSG 132#",
+"unit": "EA"
+},
+{
+"id": "31464-468",
+"code": "31464",
+"category": "Frog- #10 SMSG New",
+"name": "Frog- 10 SMSG 136#",
+"unit": "EA"
+},
+{
+"id": "31464-469",
+"code": "31464",
+"category": "Frog- #10 SMSG New",
+"name": "Frog- 10 SMSG 141#",
+"unit": "EA"
+},
+{
+"id": "31464-470",
+"code": "31464",
+"category": "Frog- #10 SMSG New",
+"name": "Frog- 10 SMSG 85#",
+"unit": "EA"
+},
+{
+"id": "31464-471",
+"code": "31464",
+"category": "Frog- #10 SMSG New",
+"name": "Frog- 10 SMSG 90#",
+"unit": "EA"
+},
+{
+"id": "31465-472",
+"code": "31465",
+"category": "Frog- #10 SMSG Relay",
+"name": "Frog- #10 SMSG Relay",
+"unit": "EA"
+},
+{
+"id": "31466-473",
+"code": "31466",
+"category": "Frog- #11 R-B  New",
+"name": "Frog- 11 Rigid Bolted 100#",
+"unit": "EA"
+},
+{
+"id": "31466-474",
+"code": "31466",
+"category": "Frog- #11 R-B  New",
+"name": "Frog- 11 Rigid Bolted 112#",
+"unit": "EA"
+},
+{
+"id": "31466-475",
+"code": "31466",
+"category": "Frog- #11 R-B  New",
+"name": "Frog- 11 Rigid Bolted 115#",
+"unit": "EA"
+},
+{
+"id": "31466-476",
+"code": "31466",
+"category": "Frog- #11 R-B  New",
+"name": "Frog- 11 Rigid Bolted 132#",
+"unit": "EA"
+},
+{
+"id": "31466-477",
+"code": "31466",
+"category": "Frog- #11 R-B  New",
+"name": "Frog- 11 Rigid Bolted 136#",
+"unit": "EA"
+},
+{
+"id": "31466-478",
+"code": "31466",
+"category": "Frog- #11 R-B  New",
+"name": "Frog- 11 Rigid Bolted 141#",
+"unit": "EA"
+},
+{
+"id": "31466-479",
+"code": "31466",
+"category": "Frog- #11 R-B  New",
+"name": "Frog- 11 Rigid Bolted 85#",
+"unit": "EA"
+},
+{
+"id": "31466-480",
+"code": "31466",
+"category": "Frog- #11 R-B  New",
+"name": "Frog- 11 Rigid Bolted 90#",
+"unit": "EA"
+},
+{
+"id": "31467-481",
+"code": "31467",
+"category": "Frog- #11 R-B  Relay",
+"name": "Frog- #11 R-B  Relay",
+"unit": "EA"
+},
+{
+"id": "31468-482",
+"code": "31468",
+"category": "Frog- #11 RBM New",
+"name": "Frog- 11 Rail Bound Manganese 100#",
+"unit": "EA"
+},
+{
+"id": "31468-483",
+"code": "31468",
+"category": "Frog- #11 RBM New",
+"name": "Frog- 11 Rail Bound Manganese 112#",
+"unit": "EA"
+},
+{
+"id": "31468-484",
+"code": "31468",
+"category": "Frog- #11 RBM New",
+"name": "Frog- 11 Rail Bound Manganese 115#",
+"unit": "EA"
+},
+{
+"id": "31468-485",
+"code": "31468",
+"category": "Frog- #11 RBM New",
+"name": "Frog- 11 Rail Bound Manganese 132#",
+"unit": "EA"
+},
+{
+"id": "31468-486",
+"code": "31468",
+"category": "Frog- #11 RBM New",
+"name": "Frog- 11 Rail Bound Manganese 136#",
+"unit": "EA"
+},
+{
+"id": "31468-487",
+"code": "31468",
+"category": "Frog- #11 RBM New",
+"name": "Frog- 11 Rail Bound Manganese 141#",
+"unit": "EA"
+},
+{
+"id": "31468-488",
+"code": "31468",
+"category": "Frog- #11 RBM New",
+"name": "Frog- 11 Rail Bound Manganese 85#",
+"unit": "EA"
+},
+{
+"id": "31468-489",
+"code": "31468",
+"category": "Frog- #11 RBM New",
+"name": "Frog- 11 Rail Bound Manganese 90#",
+"unit": "EA"
+},
+{
+"id": "31469-490",
+"code": "31469",
+"category": "Frog- #11 RBM Relay",
+"name": "Frog- #11 RBM Relay",
+"unit": "EA"
+},
+{
+"id": "31470-491",
+"code": "31470",
+"category": "Frog- #11 SMSG New",
+"name": "Frog- 11 SMSG 100#",
+"unit": "EA"
+},
+{
+"id": "31470-492",
+"code": "31470",
+"category": "Frog- #11 SMSG New",
+"name": "Frog- 11 SMSG 112#",
+"unit": "EA"
+},
+{
+"id": "31470-493",
+"code": "31470",
+"category": "Frog- #11 SMSG New",
+"name": "Frog- 11 SMSG 115#",
+"unit": "EA"
+},
+{
+"id": "31470-494",
+"code": "31470",
+"category": "Frog- #11 SMSG New",
+"name": "Frog- 11 SMSG 132#",
+"unit": "EA"
+},
+{
+"id": "31470-495",
+"code": "31470",
+"category": "Frog- #11 SMSG New",
+"name": "Frog- 11 SMSG 136#",
+"unit": "EA"
+},
+{
+"id": "31470-496",
+"code": "31470",
+"category": "Frog- #11 SMSG New",
+"name": "Frog- 11 SMSG 141#",
+"unit": "EA"
+},
+{
+"id": "31470-497",
+"code": "31470",
+"category": "Frog- #11 SMSG New",
+"name": "Frog- 11 SMSG 85#",
+"unit": "EA"
+},
+{
+"id": "31470-498",
+"code": "31470",
+"category": "Frog- #11 SMSG New",
+"name": "Frog- 11 SMSG 90#",
+"unit": "EA"
+},
+{
+"id": "31471-499",
+"code": "31471",
+"category": "Frog- #11 SMSG Relay",
+"name": "Frog- #11 SMSG Relay",
+"unit": "EA"
+},
+{
+"id": "31472-500",
+"code": "31472",
+"category": "Frog- #12 R-B  New",
+"name": "Frog- #12 R-B  New",
+"unit": "EA"
+},
+{
+"id": "31473-501",
+"code": "31473",
+"category": "Frog- #12 R-B  Relay",
+"name": "Frog- #12 R-B  Relay",
+"unit": "EA"
+},
+{
+"id": "31474-502",
+"code": "31474",
+"category": "Frog- #12 RBM New",
+"name": "Frog- #12 RBM New",
+"unit": "EA"
+},
+{
+"id": "31475-503",
+"code": "31475",
+"category": "Frog- #12 RBM Relay",
+"name": "Frog- #12 RBM Relay",
+"unit": "EA"
+},
+{
+"id": "31476-504",
+"code": "31476",
+"category": "Frog- #12 SMSG New",
+"name": "Frog- #12 SMSG New",
+"unit": "EA"
+},
+{
+"id": "31477-505",
+"code": "31477",
+"category": "Frog- #12 SMSG Relay",
+"name": "Frog- #12 SMSG Relay",
+"unit": "EA"
+},
+{
+"id": "31478-506",
+"code": "31478",
+"category": "Frog- Specialized Diamond",
+"name": "Frog- Specialized Diamond",
+"unit": "EA"
+},
+{
+"id": "31501-507",
+"code": "31501",
+"category": "Anchors- 5.5\" New",
+"name": "Anchors- 5.5\" New",
+"unit": "EA"
+},
+{
+"id": "31502-508",
+"code": "31502",
+"category": "Anchors- 5.5\" Relay",
+"name": "Anchors- 5.5\" Relay",
+"unit": "EA"
+},
+{
+"id": "31503-509",
+"code": "31503",
+"category": "Anchors- 6\" New",
+"name": "Anchors- 6\" New",
+"unit": "EA"
+},
+{
+"id": "31504-510",
+"code": "31504",
+"category": "Anchors- 6\" Relay",
+"name": "Anchors- 6\" Relay",
+"unit": "EA"
+},
+{
+"id": "31505-511",
+"code": "31505",
+"category": "Anchors- New",
+"name": "Anchors- New 100",
+"unit": "EA"
+},
+{
+"id": "31505-512",
+"code": "31505",
+"category": "Anchors- New",
+"name": "Anchors- New, Other Size",
+"unit": "EA"
+},
+{
+"id": "31506-513",
+"code": "31506",
+"category": "Anchors- Relay",
+"name": "Anchors- Relay 100",
+"unit": "EA"
+},
+{
+"id": "31506-514",
+"code": "31506",
+"category": "Anchors- Relay",
+"name": "Anchors- Relay, Other Size",
+"unit": "EA"
+},
+{
+"id": "31507-515",
+"code": "31507",
+"category": "Fastening- Cotter Pins",
+"name": "Fastening- Cotter Pins",
+"unit": "EA"
+},
+{
+"id": "31508-516",
+"code": "31508",
+"category": "Fastening- Switch Bolts",
+"name": "Fastening- Switch Bolts",
+"unit": "EA"
+},
+{
+"id": "31509-517",
+"code": "31509",
+"category": "Fastening- Lock Washers",
+"name": "MISC- Lock Washers 1\"",
+"unit": "EA"
+},
+{
+"id": "31509-518",
+"code": "31509",
+"category": "Fastening- Lock Washers",
+"name": "MISC- Lock Washers 1-1/16\"",
+"unit": "EA"
+},
+{
+"id": "31509-519",
+"code": "31509",
+"category": "Fastening- Lock Washers",
+"name": "MISC- Lock Washers 1-1/2\"",
+"unit": "EA"
+},
+{
+"id": "31509-520",
+"code": "31509",
+"category": "Fastening- Lock Washers",
+"name": "MISC- Lock Washers 1-1/8\"",
+"unit": "EA"
+},
+{
+"id": "31509-521",
+"code": "31509",
+"category": "Fastening- Lock Washers",
+"name": "MISC- Lock Washers 7/8\"",
+"unit": "EA"
+},
+{
+"id": "31510-522",
+"code": "31510",
+"category": "Fastening- New Spikes 5/8\" 100lb",
+"name": "MISC- New Spikes 5/8\" 100#",
+"unit": "KG"
+},
+{
+"id": "31511-523",
+"code": "31511",
+"category": "Fastening- New Spikes 5/8\" 200lb",
+"name": "MISC- New Spikes 5/8\" 200#",
+"unit": "KG"
+},
+{
+"id": "31512-524",
+"code": "31512",
+"category": "Fastening- New Spikes 5/8\" Bag",
+"name": "Fastening- New Spikes 5/8\" Bag",
+"unit": "BG"
+},
+{
+"id": "31513-525",
+"code": "31513",
+"category": "Fastening- New Spikes Small",
+"name": "MISC- New Spikes Mini 100#",
+"unit": "KG"
+},
+{
+"id": "31514-526",
+"code": "31514",
+"category": "Fastening- Pandrol E clip",
+"name": "MISC- Pandrol E clip",
+"unit": "EA"
+},
+{
+"id": "31515-527",
+"code": "31515",
+"category": "Fastening- Pandrol J clip",
+"name": "MISC- Pandrol J clip",
+"unit": "EA"
+},
+{
+"id": "31516-528",
+"code": "31516",
+"category": "Fastening- Lags",
+"name": "Fastening- Lags",
+"unit": "EA"
+},
+{
+"id": "31517-529",
+"code": "31517",
+"category": "Fastening- Screw Spike",
+"name": "MISC- Screw Spike",
+"unit": "EA"
+},
+{
+"id": "31518-530",
+"code": "31518",
+"category": "Fastening- Track Bolt Assembly- 1\" x 5.5\"",
+"name": "MISC- Track Bolt Assembly- 1\" x 5.5\"",
+"unit": "EA"
+},
+{
+"id": "31519-531",
+"code": "31519",
+"category": "Fastening- Track Bolt Assembly- 1\" x 6\"",
+"name": "MISC- Track Bolt Assembly- 1\" x 6\"",
+"unit": "EA"
+},
+{
+"id": "31520-532",
+"code": "31520",
+"category": "Fastening- Track Bolt Assembly- 7/8\" x 5.0\"",
+"name": "Fastening- Track Bolt Assembly- 7/8\" x 5.0\"",
+"unit": "EA"
+},
+{
+"id": "31521-533",
+"code": "31521",
+"category": "Fastening- Track Bolt Assembly- 7/8\" x 5.5\"",
+"name": "Fastening- Track Bolt Assembly- 7/8\" x 5.5\"",
+"unit": "EA"
+},
+{
+"id": "31522-534",
+"code": "31522",
+"category": "Fastening- Track Bolt Assembly- Small",
+"name": "MISC- Track Bolt Assembly- Small",
+"unit": "EA"
+},
+{
+"id": "31523-535",
+"code": "31523",
+"category": "Insulated Joint- Bonded (kit)",
+"name": "Insulated Joint- Bonded (kit) 100#",
+"unit": "EA"
+},
+{
+"id": "31523-536",
+"code": "31523",
+"category": "Insulated Joint- Bonded (kit)",
+"name": "Insulated Joint- Bonded (kit) 112#",
+"unit": "EA"
+},
+{
+"id": "31523-537",
+"code": "31523",
+"category": "Insulated Joint- Bonded (kit)",
+"name": "Insulated Joint- Bonded (kit) 115#",
+"unit": "EA"
+},
+{
+"id": "31523-538",
+"code": "31523",
+"category": "Insulated Joint- Bonded (kit)",
+"name": "Insulated Joint- Bonded (kit) 132#",
+"unit": "EA"
+},
+{
+"id": "31523-539",
+"code": "31523",
+"category": "Insulated Joint- Bonded (kit)",
+"name": "Insulated Joint- Bonded (kit) 136#",
+"unit": "EA"
+},
+{
+"id": "31524-540",
+"code": "31524",
+"category": "Insulated Joint- Insulated Post",
+"name": "Insulated Joint- Insulated Post",
+"unit": "EA"
+},
+{
+"id": "31525-541",
+"code": "31525",
+"category": "Insulated Joint- Plug Rail",
+"name": "Insulated Joint- Plug Rail 100#",
+"unit": "EA"
+},
+{
+"id": "31525-542",
+"code": "31525",
+"category": "Insulated Joint- Plug Rail",
+"name": "Insulated Joint- Plug Rail 112#",
+"unit": "EA"
+},
+{
+"id": "31525-543",
+"code": "31525",
+"category": "Insulated Joint- Plug Rail",
+"name": "Insulated Joint- Plug Rail 115#",
+"unit": "EA"
+},
+{
+"id": "31525-544",
+"code": "31525",
+"category": "Insulated Joint- Plug Rail",
+"name": "Insulated Joint- Plug Rail 132#",
+"unit": "EA"
+},
+{
+"id": "31525-545",
+"code": "31525",
+"category": "Insulated Joint- Plug Rail",
+"name": "Insulated Joint- Plug Rail 136#",
+"unit": "EA"
+},
+{
+"id": "31526-546",
+"code": "31526",
+"category": "Insulated Joint- Poly",
+"name": "Insulated Joint- Poly 100#",
+"unit": "EA"
+},
+{
+"id": "31526-547",
+"code": "31526",
+"category": "Insulated Joint- Poly",
+"name": "Insulated Joint- Poly 112#",
+"unit": "EA"
+},
+{
+"id": "31526-548",
+"code": "31526",
+"category": "Insulated Joint- Poly",
+"name": "Insulated Joint- Poly 115#",
+"unit": "EA"
+},
+{
+"id": "31526-549",
+"code": "31526",
+"category": "Insulated Joint- Poly",
+"name": "Insulated Joint- Poly 132#",
+"unit": "EA"
+},
+{
+"id": "31526-550",
+"code": "31526",
+"category": "Insulated Joint- Poly",
+"name": "Insulated Joint- Poly 136#",
+"unit": "EA"
+},
+{
+"id": "31527-551",
+"code": "31527",
+"category": "Insulated Joint- Standard",
+"name": "Insulated Joint- Standard",
+"unit": "EA"
+},
+{
+"id": "31528-552",
+"code": "31528",
+"category": "Joint Bars- 090 Joint Bar 4 Hole",
+"name": "Joint Bars- 090 Joint Bar 4 Hole Non Standard",
+"unit": "PR"
+},
+{
+"id": "31528-553",
+"code": "31528",
+"category": "Joint Bars- 090 Joint Bar 4 Hole",
+"name": "Joint Bars- 090 Joint Bar 4 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31529-554",
+"code": "31529",
+"category": "Joint Bars- 100 Joint Bar 4 Hole",
+"name": "Joint Bars- 100 Joint Bar 4 Hole Non Standard",
+"unit": "PR"
+},
+{
+"id": "31529-555",
+"code": "31529",
+"category": "Joint Bars- 100 Joint Bar 4 Hole",
+"name": "Joint Bars- 100 Joint Bar 4 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31529-556",
+"code": "31529",
+"category": "Joint Bars- 100 Joint Bar 4 Hole",
+"name": "Joint Bars- 100 Joint Bar 6 Hole Non Standard",
+"unit": "PR"
+},
+{
+"id": "31529-557",
+"code": "31529",
+"category": "Joint Bars- 100 Joint Bar 4 Hole",
+"name": "Joint Bars- 100 Joint Bar 6 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31530-558",
+"code": "31530",
+"category": "Joint Bars- 112 Joint Bar 4 Hole",
+"name": "Joint Bars- 112 Joint Bar 4 Hole Non Standard",
+"unit": "PR"
+},
+{
+"id": "31530-559",
+"code": "31530",
+"category": "Joint Bars- 112 Joint Bar 4 Hole",
+"name": "Joint Bars- 112 Joint Bar 4 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31531-560",
+"code": "31531",
+"category": "Joint Bars- 112 Joint Bar 6 Hole",
+"name": "Joint Bars- 112 Joint Bar 6 Hole Non Standard",
+"unit": "PR"
+},
+{
+"id": "31531-561",
+"code": "31531",
+"category": "Joint Bars- 112 Joint Bar 6 Hole",
+"name": "Joint Bars- 112 Joint Bar 6 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31532-562",
+"code": "31532",
+"category": "Joint Bars- 115 Joint Bar 4 Hole- New",
+"name": "Joint Bars- 115 Joint Bar 4 Hole Non Standard",
+"unit": "PR"
+},
+{
+"id": "31532-563",
+"code": "31532",
+"category": "Joint Bars- 115 Joint Bar 4 Hole- New",
+"name": "Joint Bars- 115 Joint Bar 4 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31533-564",
+"code": "31533",
+"category": "Joint Bars- 115 Joint Bar 4 Hole- Relay",
+"name": "Joint Bars- 115 Joint Bar 4 Hole- Relay",
+"unit": "PR"
+},
+{
+"id": "31534-565",
+"code": "31534",
+"category": "Joint Bars- 115 Joint Bar 6 Hole- New",
+"name": "Joint Bars- 115 Joint Bar 6 Hole Non Standard",
+"unit": "PR"
+},
+{
+"id": "31534-566",
+"code": "31534",
+"category": "Joint Bars- 115 Joint Bar 6 Hole- New",
+"name": "Joint Bars- 115 Joint Bar 6 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31535-567",
+"code": "31535",
+"category": "Joint Bars- 115 Joint Bar 6 Hole- Relay",
+"name": "Joint Bars- 115 Joint Bar 6 Hole- Relay",
+"unit": "PR"
+},
+{
+"id": "31536-568",
+"code": "31536",
+"category": "Joint Bars- 131 Joint Bar 4 Hole- New",
+"name": "Joint Bars- 131 Joint Bar 4 Hole- New",
+"unit": "PR"
+},
+{
+"id": "31537-569",
+"code": "31537",
+"category": "Joint Bars- 131 Joint Bar 4 Hole- Relay",
+"name": "Joint Bars- 131 Joint Bar 4 Hole- Relay",
+"unit": "PR"
+},
+{
+"id": "31538-570",
+"code": "31538",
+"category": "Joint Bars- 131 Joint Bar 6 Hole- New",
+"name": "Joint Bars- 131 Joint Bar 6 Hole- New",
+"unit": "PR"
+},
+{
+"id": "31539-571",
+"code": "31539",
+"category": "Joint Bars- 131 Joint Bar 6 Hole- Relay",
+"name": "Joint Bars- 131 Joint Bar 6 Hole- Relay",
+"unit": "PR"
+},
+{
+"id": "31540-572",
+"code": "31540",
+"category": "Joint Bars- 132 Joint Bar 4 Hole- New",
+"name": "Joint Bars- 132 Joint Bar 4 Hole Non Standard",
+"unit": "PR"
+},
+{
+"id": "31540-573",
+"code": "31540",
+"category": "Joint Bars- 132 Joint Bar 4 Hole- New",
+"name": "Joint Bars- 132 Joint Bar 4 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31541-574",
+"code": "31541",
+"category": "Joint Bars- 132 Joint Bar 4 Hole- Relay",
+"name": "Joint Bars- 132 Joint Bar 4 Hole- Relay",
+"unit": "PR"
+},
+{
+"id": "31542-575",
+"code": "31542",
+"category": "Joint Bars- 132 Joint Bar 6 Hole- New",
+"name": "Joint Bars- 132 Joint Bar 6 Hole Non Standard",
+"unit": "PR"
+},
+{
+"id": "31542-576",
+"code": "31542",
+"category": "Joint Bars- 132 Joint Bar 6 Hole- New",
+"name": "Joint Bars- 132 Joint Bar 6 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31543-577",
+"code": "31543",
+"category": "Joint Bars- 132 Joint Bar 6 Hole- Relay",
+"name": "Joint Bars- 132 Joint Bar 6 Hole- Relay",
+"unit": "PR"
+},
+{
+"id": "31544-578",
+"code": "31544",
+"category": "Joint Bars- 133 Joint Bar 4 Hole- New",
+"name": "Joint Bars- 133 Joint Bar 4 Hole- New",
+"unit": "PR"
+},
+{
+"id": "31545-579",
+"code": "31545",
+"category": "Joint Bars- 133 Joint Bar 4 Hole- Relay",
+"name": "Joint Bars- 133 Joint Bar 4 Hole- Relay",
+"unit": "PR"
+},
+{
+"id": "31546-580",
+"code": "31546",
+"category": "Joint Bars- 133 Joint Bar 6 Hole- New",
+"name": "Joint Bars- 133 Joint Bar 6 Hole- New",
+"unit": "PR"
+},
+{
+"id": "31547-581",
+"code": "31547",
+"category": "Joint Bars- 133 Joint Bar 6 Hole- Relay",
+"name": "Joint Bars- 133 Joint Bar 6 Hole- Relay",
+"unit": "PR"
+},
+{
+"id": "31548-582",
+"code": "31548",
+"category": "Joint Bars- 136 Joint Bar 4 Hole- New",
+"name": "Joint Bars- 136 Joint Bar 4 Hole Non Standard",
+"unit": "PR"
+},
+{
+"id": "31548-583",
+"code": "31548",
+"category": "Joint Bars- 136 Joint Bar 4 Hole- New",
+"name": "Joint Bars- 136 Joint Bar 4 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31549-584",
+"code": "31549",
+"category": "Joint Bars- 136 Joint Bar 4 Hole- Relay",
+"name": "Joint Bars- 136 Joint Bar 4 Hole- Relay",
+"unit": "PR"
+},
+{
+"id": "31550-585",
+"code": "31550",
+"category": "Joint Bars- 136 Joint Bar 6 Hole- New",
+"name": "Joint Bars- 136 Joint Bar 6 Hole Non Standard",
+"unit": "PR"
+},
+{
+"id": "31550-586",
+"code": "31550",
+"category": "Joint Bars- 136 Joint Bar 6 Hole- New",
+"name": "Joint Bars- 136 Joint Bar 6 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31551-587",
+"code": "31551",
+"category": "Joint Bars- 136 Joint Bar 6 Hole- Relay",
+"name": "Joint Bars- 136 Joint Bar 6 Hole- Relay",
+"unit": "PR"
+},
+{
+"id": "31552-588",
+"code": "31552",
+"category": "Joint Bars- 140 Joint Bar 4 Hole- New",
+"name": "Joint Bars- 140 Joint Bar 4 Hole- New",
+"unit": "PR"
+},
+{
+"id": "31553-589",
+"code": "31553",
+"category": "Joint Bars- 140 Joint Bar 4 Hole- Relay",
+"name": "Joint Bars- 140 Joint Bar 4 Hole- Relay",
+"unit": "PR"
+},
+{
+"id": "31554-590",
+"code": "31554",
+"category": "Joint Bars- 140 Joint Bar 6 Hole- New",
+"name": "Joint Bars- 140 Joint Bar 6 Hole- New",
+"unit": "PR"
+},
+{
+"id": "31555-591",
+"code": "31555",
+"category": "Joint Bars- 140 Joint Bar 6 Hole- Relay",
+"name": "Joint Bars- 140 Joint Bar 6 Hole- Relay",
+"unit": "PR"
+},
+{
+"id": "31556-592",
+"code": "31556",
+"category": "Joint Bars- 141 Joint Bar 4 Hole- New",
+"name": "Joint Bars- 141 Joint Bar 4 Hole- New",
+"unit": "PR"
+},
+{
+"id": "31557-593",
+"code": "31557",
+"category": "Joint Bars- 141 Joint Bar 4 Hole- Relay",
+"name": "Joint Bars- 141 Joint Bar 4 Hole- Relay",
+"unit": "PR"
+},
+{
+"id": "31558-594",
+"code": "31558",
+"category": "Joint Bars- 141 Joint Bar 6 Hole- New",
+"name": "Joint Bars- 141 Joint Bar 6 Hole Non Standard",
+"unit": "PR"
+},
+{
+"id": "31558-595",
+"code": "31558",
+"category": "Joint Bars- 141 Joint Bar 6 Hole- New",
+"name": "Joint Bars- 141 Joint Bar 6 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31559-596",
+"code": "31559",
+"category": "Joint Bars- 141 Joint Bar 6 Hole- Relay",
+"name": "Joint Bars- 141 Joint Bar 6 Hole- Relay",
+"unit": "PR"
+},
+{
+"id": "31560-597",
+"code": "31560",
+"category": "Joint Bars- 170 Crane Rail",
+"name": "Joint Bars- 170 Crane Rail",
+"unit": "PR"
+},
+{
+"id": "31561-598",
+"code": "31561",
+"category": "Joint Bars- 171 Crane Rail",
+"name": "Joint Bars- 171 Crane Rail",
+"unit": "PR"
+},
+{
+"id": "31562-599",
+"code": "31562",
+"category": "Joint Bars- Compromise Joint #1",
+"name": "Joint Bars- Compromise Joint (Other 1)",
+"unit": "PR"
+},
+{
+"id": "31562-600",
+"code": "31562",
+"category": "Joint Bars- Compromise Joint #1",
+"name": "Joint Bars- Compromise Joint 100/105",
+"unit": "PR"
+},
+{
+"id": "31562-601",
+"code": "31562",
+"category": "Joint Bars- Compromise Joint #1",
+"name": "Joint Bars- Compromise Joint 100/112",
+"unit": "PR"
+},
+{
+"id": "31562-602",
+"code": "31562",
+"category": "Joint Bars- Compromise Joint #1",
+"name": "Joint Bars- Compromise Joint 100/115",
+"unit": "PR"
+},
+{
+"id": "31562-603",
+"code": "31562",
+"category": "Joint Bars- Compromise Joint #1",
+"name": "Joint Bars- Compromise Joint 100/132",
+"unit": "PR"
+},
+{
+"id": "31562-604",
+"code": "31562",
+"category": "Joint Bars- Compromise Joint #1",
+"name": "Joint Bars- Compromise Joint 100/136",
+"unit": "PR"
+},
+{
+"id": "31562-605",
+"code": "31562",
+"category": "Joint Bars- Compromise Joint #1",
+"name": "Joint Bars- Compromise Joint 85/100",
+"unit": "PR"
+},
+{
+"id": "31562-606",
+"code": "31562",
+"category": "Joint Bars- Compromise Joint #1",
+"name": "Joint Bars- Compromise Joint 90/100",
+"unit": "PR"
+},
+{
+"id": "31562-607",
+"code": "31562",
+"category": "Joint Bars- Compromise Joint #1",
+"name": "Joint Bars- Compromise Joint 90/105",
+"unit": "PR"
+},
+{
+"id": "31562-608",
+"code": "31562",
+"category": "Joint Bars- Compromise Joint #1",
+"name": "Joint Bars- Compromise Joint 90/115",
+"unit": "PR"
+},
+{
+"id": "31562-609",
+"code": "31562",
+"category": "Joint Bars- Compromise Joint #1",
+"name": "Joint Bars- Compromise Joint 90/132",
+"unit": "PR"
+},
+{
+"id": "31563-610",
+"code": "31563",
+"category": "Joint Bars- Compromise Joint #2",
+"name": "Joint Bars- Compromise Joint (Other 2)",
+"unit": "PR"
+},
+{
+"id": "31563-611",
+"code": "31563",
+"category": "Joint Bars- Compromise Joint #2",
+"name": "Joint Bars- Compromise Joint 105/112",
+"unit": "PR"
+},
+{
+"id": "31563-612",
+"code": "31563",
+"category": "Joint Bars- Compromise Joint #2",
+"name": "Joint Bars- Compromise Joint 105/115",
+"unit": "PR"
+},
+{
+"id": "31563-613",
+"code": "31563",
+"category": "Joint Bars- Compromise Joint #2",
+"name": "Joint Bars- Compromise Joint 105/132",
+"unit": "PR"
+},
+{
+"id": "31563-614",
+"code": "31563",
+"category": "Joint Bars- Compromise Joint #2",
+"name": "Joint Bars- Compromise Joint 105/136",
+"unit": "PR"
+},
+{
+"id": "31563-615",
+"code": "31563",
+"category": "Joint Bars- Compromise Joint #2",
+"name": "Joint Bars- Compromise Joint 112/115",
+"unit": "PR"
+},
+{
+"id": "31563-616",
+"code": "31563",
+"category": "Joint Bars- Compromise Joint #2",
+"name": "Joint Bars- Compromise Joint 112/132",
+"unit": "PR"
+},
+{
+"id": "31563-617",
+"code": "31563",
+"category": "Joint Bars- Compromise Joint #2",
+"name": "Joint Bars- Compromise Joint 112/136",
+"unit": "PR"
+},
+{
+"id": "31563-618",
+"code": "31563",
+"category": "Joint Bars- Compromise Joint #2",
+"name": "Joint Bars- Compromise Joint 112/141",
+"unit": "PR"
+},
+{
+"id": "31563-619",
+"code": "31563",
+"category": "Joint Bars- Compromise Joint #2",
+"name": "Joint Bars- Compromise Joint 115/132",
+"unit": "PR"
+},
+{
+"id": "31563-620",
+"code": "31563",
+"category": "Joint Bars- Compromise Joint #2",
+"name": "Joint Bars- Compromise Joint 115/136",
+"unit": "PR"
+},
+{
+"id": "31563-621",
+"code": "31563",
+"category": "Joint Bars- Compromise Joint #2",
+"name": "Joint Bars- Compromise Joint 115/141",
+"unit": "PR"
+},
+{
+"id": "31564-622",
+"code": "31564",
+"category": "Joint Bars- Compromise Joint #3",
+"name": "Joint Bars- Compromise Joint (Other 3)",
+"unit": "PR"
+},
+{
+"id": "31564-623",
+"code": "31564",
+"category": "Joint Bars- Compromise Joint #3",
+"name": "Joint Bars- Compromise Joint 132/136",
+"unit": "PR"
+},
+{
+"id": "31564-624",
+"code": "31564",
+"category": "Joint Bars- Compromise Joint #3",
+"name": "Joint Bars- Compromise Joint 132/141",
+"unit": "PR"
+},
+{
+"id": "31565-625",
+"code": "31565",
+"category": "Joint Bars- Compromise Joint #4",
+"name": "Joint Bars- Compromise Joint (Other 4)",
+"unit": "PR"
+},
+{
+"id": "31565-626",
+"code": "31565",
+"category": "Joint Bars- Compromise Joint #4",
+"name": "Joint Bars- Compromise Joint 136/141",
+"unit": "PR"
+},
+{
+"id": "31566-627",
+"code": "31566",
+"category": "Joint Bars- Misc Relay",
+"name": "Joint Bars- 085 Joint Bar 4 Hole Non Standard",
+"unit": "PR"
+},
+{
+"id": "31566-628",
+"code": "31566",
+"category": "Joint Bars- Misc Relay",
+"name": "Joint Bars- 085 Joint Bar 4 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31566-629",
+"code": "31566",
+"category": "Joint Bars- Misc Relay",
+"name": "Joint Bars- 105 Joint Bar 4 Hole Non Standard",
+"unit": "PR"
+},
+{
+"id": "31566-630",
+"code": "31566",
+"category": "Joint Bars- Misc Relay",
+"name": "Joint Bars- 105 Joint Bar 4 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31566-631",
+"code": "31566",
+"category": "Joint Bars- Misc Relay",
+"name": "Joint Bars- 105 Joint Bar 6 Hole Non Standard",
+"unit": "PR"
+},
+{
+"id": "31566-632",
+"code": "31566",
+"category": "Joint Bars- Misc Relay",
+"name": "Joint Bars- 105 Joint Bar 6 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31566-633",
+"code": "31566",
+"category": "Joint Bars- Misc Relay",
+"name": "Joint Bars- 122 Joint Bar 4 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31566-634",
+"code": "31566",
+"category": "Joint Bars- Misc Relay",
+"name": "Joint Bars- 122 Joint Bar 6 Hole Standard",
+"unit": "PR"
+},
+{
+"id": "31567-635",
+"code": "31567",
+"category": "Joint Bars- Wood Expansion Shims",
+"name": "Joint Bars- Wood Expansion Shims",
+"unit": "EA"
+},
+{
+"id": "31568-636",
+"code": "31568",
+"category": "MISC- Lube/Graphite",
+"name": "MISC- Switch Lube/Graphite 1 GA",
+"unit": "GA"
+},
+{
+"id": "31568-637",
+"code": "31568",
+"category": "MISC- Lube/Graphite",
+"name": "MISC- Switch Lube/Graphite 5 GA",
+"unit": "GA"
+},
+{
+"id": "31569-638",
+"code": "31569",
+"category": "MISC- Lubricator Bulk Lube",
+"name": "MISC- Lubricator Bulk Lube",
+"unit": "GA"
+},
+{
+"id": "31570-639",
+"code": "31570",
+"category": "MISC- Lubricator Machine",
+"name": "MISC- Lubricator Machine Electric",
+"unit": "EA"
+},
+{
+"id": "31570-640",
+"code": "31570",
+"category": "MISC- Lubricator Machine",
+"name": "MISC- Lubricator Machine Solar",
+"unit": "EA"
+},
+{
+"id": "31570-641",
+"code": "31570",
+"category": "MISC- Lubricator Machine",
+"name": "MISC- Lubricator Machine Wheel Pump",
+"unit": "EA"
+},
+{
+"id": "31571-642",
+"code": "31571",
+"category": "MISC- Lubricator Wiper",
+"name": "MISC- Lubricator Wiper",
+"unit": "EA"
+},
+{
+"id": "31572-643",
+"code": "31572",
+"category": "MISC- Steel Shims",
+"name": "MISC- Steel Shims Size 1",
+"unit": "EA"
+},
+{
+"id": "31572-644",
+"code": "31572",
+"category": "MISC- Steel Shims",
+"name": "MISC- Steel Shims Size 2",
+"unit": "EA"
+},
+{
+"id": "31572-645",
+"code": "31572",
+"category": "MISC- Steel Shims",
+"name": "MISC- Steel Shims Size 3",
+"unit": "EA"
+},
+{
+"id": "31573-646",
+"code": "31573",
+"category": "Plugging- Powder",
+"name": "Plugging- Powder",
+"unit": "GA"
+},
+{
+"id": "31574-647",
+"code": "31574",
+"category": "Plugging- Spike Fast",
+"name": "Plugging- Spike Fast",
+"unit": "TB"
+},
+{
+"id": "31575-648",
+"code": "31575",
+"category": "Plugging- Tie Plugs Cedar 500pc",
+"name": "Plugging- Tie Plugs Cedar 500pc",
+"unit": "BN"
+},
+{
+"id": "31576-649",
+"code": "31576",
+"category": "Plugging- Tie Plugs Hardwood 500pc",
+"name": "Plugging- Hardwood Tie Plugs 500pc",
+"unit": "BN"
+},
+{
+"id": "31577-650",
+"code": "31577",
+"category": "Plugging- Tie Plugs Treated 500pc",
+"name": "Plugging- Tie Plugs Treated 500pc",
+"unit": "BN"
+},
+{
+"id": "31578-651",
+"code": "31578",
+"category": "Restraint- Gage Rod Double Clutch",
+"name": "MISC- Double Clutch Gage Rod",
+"unit": "EA"
+},
+{
+"id": "31579-652",
+"code": "31579",
+"category": "Restraint- Gage Rod Single Clutch",
+"name": "MISC- Single Clutch Gage Rod",
+"unit": "EA"
+},
+{
+"id": "31580-653",
+"code": "31580",
+"category": "Tie Plate- <90# SS Relay",
+"name": "Tie Plate- Relay 4-5/8\" 4-Hole",
+"unit": "EA"
+},
+{
+"id": "31580-654",
+"code": "31580",
+"category": "Tie Plate- <90# SS Relay",
+"name": "Tie Plate- Relay 4-5/8\" 5-Hole",
+"unit": "EA"
+},
+{
+"id": "31580-655",
+"code": "31580",
+"category": "Tie Plate- <90# SS Relay",
+"name": "Tie Plate- Relay 4-5/8\" 6-Hole",
+"unit": "EA"
+},
+{
+"id": "31580-656",
+"code": "31580",
+"category": "Tie Plate- <90# SS Relay",
+"name": "Tie Plate- Relay 4-5/8\" 7-Hole",
+"unit": "EA"
+},
+{
+"id": "31580-657",
+"code": "31580",
+"category": "Tie Plate- <90# SS Relay",
+"name": "Tie Plate- Relay 4-5/8\" 8-Hole",
+"unit": "EA"
+},
+{
+"id": "31580-658",
+"code": "31580",
+"category": "Tie Plate- <90# SS Relay",
+"name": "Tie Plate- Single Shoulder 80#",
+"unit": "EA"
+},
+{
+"id": "31580-659",
+"code": "31580",
+"category": "Tie Plate- <90# SS Relay",
+"name": "Tie Plate- Single Shoulder 85#",
+"unit": "EA"
+},
+{
+"id": "31580-660",
+"code": "31580",
+"category": "Tie Plate- <90# SS Relay",
+"name": "Tie Plate- Single Shoulder 90#",
+"unit": "EA"
+},
+{
+"id": "31581-661",
+"code": "31581",
+"category": "Tie Plate- 090# Relay",
+"name": "Tie Plate- 090# Relay",
+"unit": "EA"
+},
+{
+"id": "31581-662",
+"code": "31581",
+"category": "Tie Plate- 090# Relay",
+"name": "Tie Plate- Relay 5-1/8\" 4-Hole",
+"unit": "EA"
+},
+{
+"id": "31581-663",
+"code": "31581",
+"category": "Tie Plate- 090# Relay",
+"name": "Tie Plate- Relay 5-1/8\" 5-Hole",
+"unit": "EA"
+},
+{
+"id": "31581-664",
+"code": "31581",
+"category": "Tie Plate- 090# Relay",
+"name": "Tie Plate- Relay 5-1/8\" 6-Hole",
+"unit": "EA"
+},
+{
+"id": "31581-665",
+"code": "31581",
+"category": "Tie Plate- 090# Relay",
+"name": "Tie Plate- Relay 5-1/8\" 7-Hole",
+"unit": "EA"
+},
+{
+"id": "31581-666",
+"code": "31581",
+"category": "Tie Plate- 090# Relay",
+"name": "Tie Plate- Relay 5-1/8\" 8-Hole",
+"unit": "EA"
+},
+{
+"id": "31581-667",
+"code": "31581",
+"category": "Tie Plate- 090# Relay",
+"name": "Tie Plate- Relay 5-3/16\" 4-Hole",
+"unit": "EA"
+},
+{
+"id": "31581-668",
+"code": "31581",
+"category": "Tie Plate- 090# Relay",
+"name": "Tie Plate- Relay 5-3/16\" 5-Hole",
+"unit": "EA"
+},
+{
+"id": "31581-669",
+"code": "31581",
+"category": "Tie Plate- 090# Relay",
+"name": "Tie Plate- Relay 5-3/16\" 6-Hole",
+"unit": "EA"
+},
+{
+"id": "31581-670",
+"code": "31581",
+"category": "Tie Plate- 090# Relay",
+"name": "Tie Plate- Relay 5-3/16\" 7-Hole",
+"unit": "EA"
+},
+{
+"id": "31581-671",
+"code": "31581",
+"category": "Tie Plate- 090# Relay",
+"name": "Tie Plate- Relay 5-3/16\" 8-Hole",
+"unit": "EA"
+},
+{
+"id": "31582-672",
+"code": "31582",
+"category": "Tie Plate- 100# Relay DS",
+"name": "Tie Plate- 100# Relay DS",
+"unit": "EA"
+},
+{
+"id": "31582-673",
+"code": "31582",
+"category": "Tie Plate- 100# Relay DS",
+"name": "Tie Plate- Relay 5-3/8\" 4-Hole",
+"unit": "EA"
+},
+{
+"id": "31582-674",
+"code": "31582",
+"category": "Tie Plate- 100# Relay DS",
+"name": "Tie Plate- Relay 5-3/8\" 5-Hole",
+"unit": "EA"
+},
+{
+"id": "31582-675",
+"code": "31582",
+"category": "Tie Plate- 100# Relay DS",
+"name": "Tie Plate- Relay 5-3/8\" 6-Hole",
+"unit": "EA"
+},
+{
+"id": "31582-676",
+"code": "31582",
+"category": "Tie Plate- 100# Relay DS",
+"name": "Tie Plate- Relay 5-3/8\" 7-Hole",
+"unit": "EA"
+},
+{
+"id": "31582-677",
+"code": "31582",
+"category": "Tie Plate- 100# Relay DS",
+"name": "Tie Plate- Relay 5-3/8\" 8-Hole",
+"unit": "EA"
+},
+{
+"id": "31583-678",
+"code": "31583",
+"category": "Tie Plate- 100# Relay SS",
+"name": "Tie Plate- Single Shoulder 100#",
+"unit": "EA"
+},
+{
+"id": "31584-679",
+"code": "31584",
+"category": "Tie Plate- 112/115/119# New",
+"name": "Tie Plate- 112/115/119# New",
+"unit": "EA"
+},
+{
+"id": "31584-680",
+"code": "31584",
+"category": "Tie Plate- 112/115/119# New",
+"name": "Tie Plate- New 5.5\" 4-Hole",
+"unit": "EA"
+},
+{
+"id": "31584-681",
+"code": "31584",
+"category": "Tie Plate- 112/115/119# New",
+"name": "Tie Plate- New 5.5\" 5-Hole",
+"unit": "EA"
+},
+{
+"id": "31584-682",
+"code": "31584",
+"category": "Tie Plate- 112/115/119# New",
+"name": "Tie Plate- New 5.5\" 6-Hole",
+"unit": "EA"
+},
+{
+"id": "31584-683",
+"code": "31584",
+"category": "Tie Plate- 112/115/119# New",
+"name": "Tie Plate- New 5.5\" 7-Hole",
+"unit": "EA"
+},
+{
+"id": "31584-684",
+"code": "31584",
+"category": "Tie Plate- 112/115/119# New",
+"name": "Tie Plate- New 5.5\" 8-Hole",
+"unit": "EA"
+},
+{
+"id": "31585-685",
+"code": "31585",
+"category": "Tie Plate- 112/115/119# Relay",
+"name": "Tie Plate- 112/115/119# Relay",
+"unit": "EA"
+},
+{
+"id": "31585-686",
+"code": "31585",
+"category": "Tie Plate- 112/115/119# Relay",
+"name": "Tie Plate- Relay 5.5\" 4-Hole",
+"unit": "EA"
+},
+{
+"id": "31585-687",
+"code": "31585",
+"category": "Tie Plate- 112/115/119# Relay",
+"name": "Tie Plate- Relay 5.5\" 5-Hole",
+"unit": "EA"
+},
+{
+"id": "31585-688",
+"code": "31585",
+"category": "Tie Plate- 112/115/119# Relay",
+"name": "Tie Plate- Relay 5.5\" 6-Hole",
+"unit": "EA"
+},
+{
+"id": "31585-689",
+"code": "31585",
+"category": "Tie Plate- 112/115/119# Relay",
+"name": "Tie Plate- Relay 5.5\" 7-Hole",
+"unit": "EA"
+},
+{
+"id": "31585-690",
+"code": "31585",
+"category": "Tie Plate- 112/115/119# Relay",
+"name": "Tie Plate- Relay 5.5\" 8-Hole",
+"unit": "EA"
+},
+{
+"id": "31586-691",
+"code": "31586",
+"category": "Tie Plate- 131-141# New",
+"name": "Tie Plate- 131-141# New",
+"unit": "EA"
+},
+{
+"id": "31586-692",
+"code": "31586",
+"category": "Tie Plate- 131-141# New",
+"name": "Tie Plate- New 6\" 4-Hole",
+"unit": "EA"
+},
+{
+"id": "31586-693",
+"code": "31586",
+"category": "Tie Plate- 131-141# New",
+"name": "Tie Plate- New 6\" 5-Hole",
+"unit": "EA"
+},
+{
+"id": "31586-694",
+"code": "31586",
+"category": "Tie Plate- 131-141# New",
+"name": "Tie Plate- New 6\" 6-Hole",
+"unit": "EA"
+},
+{
+"id": "31586-695",
+"code": "31586",
+"category": "Tie Plate- 131-141# New",
+"name": "Tie Plate- New 6\" 7-Hole",
+"unit": "EA"
+},
+{
+"id": "31586-696",
+"code": "31586",
+"category": "Tie Plate- 131-141# New",
+"name": "Tie Plate- New 6\" 8-Hole",
+"unit": "EA"
+},
+{
+"id": "31587-697",
+"code": "31587",
+"category": "Tie Plate- 131-141# Relay",
+"name": "Tie Plate- 131-141# Relay",
+"unit": "EA"
+},
+{
+"id": "31587-698",
+"code": "31587",
+"category": "Tie Plate- 131-141# Relay",
+"name": "Tie Plate- Relay 6\" 4-Hole",
+"unit": "EA"
+},
+{
+"id": "31587-699",
+"code": "31587",
+"category": "Tie Plate- 131-141# Relay",
+"name": "Tie Plate- Relay 6\" 5-Hole",
+"unit": "EA"
+},
+{
+"id": "31587-700",
+"code": "31587",
+"category": "Tie Plate- 131-141# Relay",
+"name": "Tie Plate- Relay 6\" 6-Hole",
+"unit": "EA"
+},
+{
+"id": "31587-701",
+"code": "31587",
+"category": "Tie Plate- 131-141# Relay",
+"name": "Tie Plate- Relay 6\" 7-Hole",
+"unit": "EA"
+},
+{
+"id": "31587-702",
+"code": "31587",
+"category": "Tie Plate- 131-141# Relay",
+"name": "Tie Plate- Relay 6\" 8-Hole",
+"unit": "EA"
+},
+{
+"id": "31588-703",
+"code": "31588",
+"category": "Tie Plate- Hook Twin New",
+"name": "Tie Plate- Hook Twin Plates New L27",
+"unit": "EA"
+},
+{
+"id": "31588-704",
+"code": "31588",
+"category": "Tie Plate- Hook Twin New",
+"name": "Tie Plate- Hook Twin Plates New LR27",
+"unit": "EA"
+},
+{
+"id": "31589-705",
+"code": "31589",
+"category": "Tie Plate- Hook Twin Relay",
+"name": "Tie Plate- Hook Twin Plates Relay",
+"unit": "EA"
+},
+{
+"id": "31589-708",
+"code": "31589",
+"category": "Tie Plate- Hook Twin Relay",
+"name": "Tie Plate- Hook Twin Plates Relay 23",
+"unit": "EA"
+},
+{
+"id": "31589-709",
+"code": "31589",
+"category": "Tie Plate- Hook Twin Relay",
+"name": "Tie Plate- Hook Twin Plates Relay H23",
+"unit": "EA"
+},
+{
+"id": "31589-710",
+"code": "31589",
+"category": "Tie Plate- Hook Twin Relay",
+"name": "Tie Plate- Hook Twin Plates Relay H27",
+"unit": "EA"
+},
+{
+"id": "31589-711",
+"code": "31589",
+"category": "Tie Plate- Hook Twin Relay",
+"name": "Tie Plate- Hook Twin Plates Relay L31",
+"unit": "EA"
+},
+{
+"id": "31589-712",
+"code": "31589",
+"category": "Tie Plate- Hook Twin Relay",
+"name": "Tie Plate- Hook Twin Plates Relay LR23",
+"unit": "EA"
+},
+{
+"id": "31589-713",
+"code": "31589",
+"category": "Tie Plate- Hook Twin Relay",
+"name": "Tie Plate- Hook Twin Plates Relay R31",
+"unit": "EA"
+},
+{
+"id": "31590-714",
+"code": "31590",
+"category": "Tie Plate- Mountain 5.5\" New",
+"name": "Tie Plate- Mountain 5.5\" New",
+"unit": "EA"
+},
+{
+"id": "31591-715",
+"code": "31591",
+"category": "Tie Plate- Mountain 5.5\" Relay",
+"name": "Tie Plate- Mountain 5.5\" Relay",
+"unit": "EA"
+},
+{
+"id": "31592-716",
+"code": "31592",
+"category": "Tie Plate- Mountain 6\" New",
+"name": "Tie Plate- Mountain 6\" New",
+"unit": "EA"
+},
+{
+"id": "31593-717",
+"code": "31593",
+"category": "Tie Plate- Mountain 6\" Relay",
+"name": "Tie Plate- Mountain 6\" Relay",
+"unit": "EA"
+},
+{
+"id": "31594-718",
+"code": "31594",
+"category": "Tie Plate- Pandrol 5.5\" New",
+"name": "Tie Plate- New Pandrol 5.5\"",
+"unit": "EA"
+},
+{
+"id": "31595-719",
+"code": "31595",
+"category": "Tie Plate- Pandrol 5.5\" Relay",
+"name": "Tie Plate- Relay Pandrol 5.5\"",
+"unit": "EA"
+},
+{
+"id": "31596-720",
+"code": "31596",
+"category": "Tie Plate- Pandrol 6\" New",
+"name": "Tie Plate- New Pandrol 6\"",
+"unit": "EA"
+},
+{
+"id": "31597-721",
+"code": "31597",
+"category": "Tie Plate- Pandrol 6\" Relay",
+"name": "Tie Plate- Relay Pandrol 6\"",
+"unit": "EA"
+},
+{
+"id": "31701-722",
+"code": "31701",
+"category": "Containment- Piping",
+"name": "Containment- Piping",
+"unit": "LF"
+},
+{
+"id": "31702-723",
+"code": "31702",
+"category": "Containment- Plastic",
+"name": "Containment- Plastic",
+"unit": "TF"
+},
+{
+"id": "31703-724",
+"code": "31703",
+"category": "Containment- Steel",
+"name": "Containment- Steel",
+"unit": "TF"
+},
+{
+"id": "31704-725",
+"code": "31704",
+"category": "Crossing- Asphalt (Approaches)",
+"name": "Crossing- Asphalt (Approaches)",
+"unit": "TN"
+},
+{
+"id": "31705-726",
+"code": "31705",
+"category": "Crossing- Asphalt (IP)",
+"name": "Crossing- Asphalt (IP)",
+"unit": "TN"
+},
+{
+"id": "31706-727",
+"code": "31706",
+"category": "Crossing- Concrete (IP)",
+"name": "Crossing- Concrete (IP)",
+"unit": "CY"
+},
+{
+"id": "31707-728",
+"code": "31707",
+"category": "Crossing- Conduit",
+"name": "Crossing- Conduit",
+"unit": "LF"
+},
+{
+"id": "31708-729",
+"code": "31708",
+"category": "Crossing- Drain Pipe",
+"name": "Crossing- Drain Pipe",
+"unit": "LF"
+},
+{
+"id": "31709-730",
+"code": "31709",
+"category": "Crossing- Elastomeric Bearing Pad",
+"name": "Crossing- Rubber Bearing Pads",
+"unit": "RL"
+},
+{
+"id": "31710-731",
+"code": "31710",
+"category": "Crossing- Flange Steel",
+"name": "Crossing- Flange Steel",
+"unit": "TF"
+},
+{
+"id": "31711-732",
+"code": "31711",
+"category": "Crossing- Lag Screws",
+"name": "Crossing- Lag Screws",
+"unit": "EA"
+},
+{
+"id": "31712-733",
+"code": "31712",
+"category": "Crossing- Modular / Tub",
+"name": "Crossing- Modular / Tub",
+"unit": "TF"
+},
+{
+"id": "31713-734",
+"code": "31713",
+"category": "Crossing- Precast Bearing Pads",
+"name": "Crossing- Precast Bearing Pads",
+"unit": "EA"
+},
+{
+"id": "31714-735",
+"code": "31714",
+"category": "Crossing- Precast End Deflectors",
+"name": "Crossing- Steel End Plates",
+"unit": "ST"
+},
+{
+"id": "31715-736",
+"code": "31715",
+"category": "Crossing- Precast Switch Panels",
+"name": "Crossing- Precast Concrete Switch Panels",
+"unit": "ST"
+},
+{
+"id": "31716-737",
+"code": "31716",
+"category": "Crossing- Precast Track Panels",
+"name": "Crossing- Precast Panels 100#",
+"unit": "TF"
+},
+{
+"id": "31716-738",
+"code": "31716",
+"category": "Crossing- Precast Track Panels",
+"name": "Crossing- Precast Panels 115#",
+"unit": "TF"
+},
+{
+"id": "31716-739",
+"code": "31716",
+"category": "Crossing- Precast Track Panels",
+"name": "Crossing- Precast Panels 136#",
+"unit": "TF"
+},
+{
+"id": "31717-740",
+"code": "31717",
+"category": "Crossing- Rubber Flange",
+"name": "Crossing- Rubber Flange w/ Clips 100#",
+"unit": "TF"
+},
+{
+"id": "31717-741",
+"code": "31717",
+"category": "Crossing- Rubber Flange",
+"name": "Crossing- Rubber Flange w/ Clips 115#",
+"unit": "TF"
+},
+{
+"id": "31717-742",
+"code": "31717",
+"category": "Crossing- Rubber Flange",
+"name": "Crossing- Rubber Flange w/ Clips 136#",
+"unit": "TF"
+},
+{
+"id": "31718-743",
+"code": "31718",
+"category": "Crossing- Rubber Flange Clips",
+"name": "Crossing- Rubber Flange Clips",
+"unit": "EA"
+},
+{
+"id": "31719-744",
+"code": "31719",
+"category": "Crossing- Rubber Flange ZipTies",
+"name": "Crossing- Rubber Flange ZipTies",
+"unit": "EA"
+},
+{
+"id": "31720-745",
+"code": "31720",
+"category": "Crossing- Rubber Panel",
+"name": "Crossing- Rubber Panel",
+"unit": "TF"
+},
+{
+"id": "31721-746",
+"code": "31721",
+"category": "Crossing- Switch Blockout",
+"name": "Crossing- Switch Pavement Blockout",
+"unit": "ST"
+},
+{
+"id": "31722-747",
+"code": "31722",
+"category": "Crossing- Thermoplastic Striping",
+"name": "Crossing- Thermoplastic Striping",
+"unit": "LF"
+},
+{
+"id": "31723-748",
+"code": "31723",
+"category": "Crossing- Timber (Dapped/Doweled)",
+"name": "Crossing- Timber (Dapped/Doweled)",
+"unit": "TF"
+},
+{
+"id": "31724-749",
+"code": "31724",
+"category": "Crossing- Timber (Single)",
+"name": "Crossing- Timber Plank (Single)",
+"unit": "LF"
+},
+{
+"id": "31725-750",
+"code": "31725",
+"category": "Crossing- Trucking",
+"name": "Crossing- Trucking",
+"unit": "EA"
+},
+{
+"id": "31801-751",
+"code": "31801",
+"category": "DF- Anti Creep Devices",
+"name": "DF- Anti Creep Devices",
+"unit": "EA"
+},
+{
+"id": "31802-752",
+"code": "31802",
+"category": "DF- Bolts (Anchor)",
+"name": "DF- Bolts (Anchor)",
+"unit": "EA"
+},
+{
+"id": "31803-753",
+"code": "31803",
+"category": "DF- Bolts (Full Assembly)",
+"name": "DF- Bolts (Full Assembly)",
+"unit": "EA"
+},
+{
+"id": "31803-754",
+"code": "31803",
+"category": "DF- Bolts (Full Assembly)",
+"name": "MISC- Other Bolts / Frog /  Direct Fixation",
+"unit": "EA"
+},
+{
+"id": "31803-755",
+"code": "31803",
+"category": "DF- Bolts (Full Assembly)",
+"name": "MISC- Other Bolts Crane",
+"unit": "EA"
+},
+{
+"id": "31804-756",
+"code": "31804",
+"category": "DF- Bolts (Hook)",
+"name": "DF- Bolts (Hook)",
+"unit": "EA"
+},
+{
+"id": "31804-757",
+"code": "31804",
+"category": "DF- Bolts (Hook)",
+"name": "MISC- Other Bolts Bridge",
+"unit": "EA"
+},
+{
+"id": "31805-758",
+"code": "31805",
+"category": "DF- Bolts (Standard)",
+"name": "DF- Bolts (Standard)",
+"unit": "EA"
+},
+{
+"id": "31806-759",
+"code": "31806",
+"category": "DF- Clips (Other)",
+"name": "MISC- Clips 103",
+"unit": "EA"
+},
+{
+"id": "31806-760",
+"code": "31806",
+"category": "DF- Clips (Other)",
+"name": "MISC- Clips 106",
+"unit": "EA"
+},
+{
+"id": "31806-761",
+"code": "31806",
+"category": "DF- Clips (Other)",
+"name": "MISC- Clips 114",
+"unit": "EA"
+},
+{
+"id": "31807-762",
+"code": "31807",
+"category": "DF- Clips 62",
+"name": "MISC- Clips 062",
+"unit": "EA"
+},
+{
+"id": "31808-763",
+"code": "31808",
+"category": "DF- Epoxy",
+"name": "DF- Epoxy",
+"unit": "EA"
+},
+{
+"id": "31809-764",
+"code": "31809",
+"category": "DF- Fastening",
+"name": "DF- Fastening",
+"unit": "EA"
+},
+{
+"id": "31810-765",
+"code": "31810",
+"category": "DF- Flat Washers",
+"name": "DF- Flat Washers",
+"unit": "EA"
+},
+{
+"id": "31811-766",
+"code": "31811",
+"category": "DF- Grouting",
+"name": "DF- Grouting",
+"unit": "EA"
+},
+{
+"id": "31812-767",
+"code": "31812",
+"category": "DF- Sole Plates",
+"name": "DF- Sole Plates",
+"unit": "EA"
+},
+{
+"id": "31901-768",
+"code": "31901",
+"category": "Concrete- Additives",
+"name": "Concrete- Additives",
+"unit": "EA"
+},
+{
+"id": "31902-769",
+"code": "31902",
+"category": "Concrete- Bag",
+"name": "Concrete- Bag",
+"unit": "EA"
+},
+{
+"id": "31903-770",
+"code": "31903",
+"category": "Concrete- Chairs / Misc",
+"name": "Concrete- Chairs / Misc",
+"unit": "EA"
+},
+{
+"id": "31904-771",
+"code": "31904",
+"category": "Concrete- Haul",
+"name": "Concrete- Haul",
+"unit": "EA"
+},
+{
+"id": "31905-772",
+"code": "31905",
+"category": "Concrete- Pump",
+"name": "Concrete- Pump",
+"unit": "EA"
+},
+{
+"id": "31906-773",
+"code": "31906",
+"category": "Concrete- Rebar",
+"name": "MISC- Rebar Size 1",
+"unit": "EA"
+},
+{
+"id": "31906-774",
+"code": "31906",
+"category": "Concrete- Rebar",
+"name": "MISC- Rebar Size 2",
+"unit": "EA"
+},
+{
+"id": "31906-775",
+"code": "31906",
+"category": "Concrete- Rebar",
+"name": "MISC- Rebar Size 3",
+"unit": "EA"
+},
+{
+"id": "31906-776",
+"code": "31906",
+"category": "Concrete- Rebar",
+"name": "MISC- Rebar Size 4",
+"unit": "EA"
+},
+{
+"id": "31906-777",
+"code": "31906",
+"category": "Concrete- Rebar",
+"name": "MISC- Rebar Size 5",
+"unit": "EA"
+},
+{
+"id": "31906-778",
+"code": "31906",
+"category": "Concrete- Rebar",
+"name": "MISC- Rebar Size 6",
+"unit": "EA"
+},
+{
+"id": "31907-779",
+"code": "31907",
+"category": "Concrete- Truck",
+"name": "Concrete- Truck",
+"unit": "EA"
+},
+{
+"id": "31908-780",
+"code": "31908",
+"category": "EOT- Bumping Post",
+"name": "MISC- Bumping Post Shock-Free Head",
+"unit": "EA"
+},
+{
+"id": "31908-781",
+"code": "31908",
+"category": "EOT- Bumping Post",
+"name": "MISC- Bumping Post WA",
+"unit": "EA"
+},
+{
+"id": "31908-782",
+"code": "31908",
+"category": "EOT- Bumping Post",
+"name": "MISC- Bumping Post WAC",
+"unit": "EA"
+},
+{
+"id": "31908-783",
+"code": "31908",
+"category": "EOT- Bumping Post",
+"name": "MISC- Bumping Post WCT",
+"unit": "EA"
+},
+{
+"id": "31908-784",
+"code": "31908",
+"category": "EOT- Bumping Post",
+"name": "MISC- Bumping Post WCTS",
+"unit": "EA"
+},
+{
+"id": "31908-785",
+"code": "31908",
+"category": "EOT- Bumping Post",
+"name": "MISC- Bumping Post WD",
+"unit": "EA"
+},
+{
+"id": "31908-786",
+"code": "31908",
+"category": "EOT- Bumping Post",
+"name": "MISC- Bumping Post WDC",
+"unit": "EA"
+},
+{
+"id": "31908-787",
+"code": "31908",
+"category": "EOT- Bumping Post",
+"name": "MISC- Bumping Post WG",
+"unit": "EA"
+},
+{
+"id": "31908-788",
+"code": "31908",
+"category": "EOT- Bumping Post",
+"name": "MISC- Bumping Post WGC",
+"unit": "EA"
+},
+{
+"id": "31908-789",
+"code": "31908",
+"category": "EOT- Bumping Post",
+"name": "MISC- Bumping Post WK",
+"unit": "EA"
+},
+{
+"id": "31909-790",
+"code": "31909",
+"category": "EOT- Earthen Materials",
+"name": "EOT- Earthen Materials",
+"unit": "EA"
+},
+{
+"id": "31910-791",
+"code": "31910",
+"category": "EOT- Wheel Stops",
+"name": "MISC- Wheel Stops",
+"unit": "EA"
+},
+{
+"id": "31911-792",
+"code": "31911",
+"category": "Geo- Ecology Blocks",
+"name": "MISC- Ecology Blocks",
+"unit": "EA"
+},
+{
+"id": "31912-793",
+"code": "31912",
+"category": "Geo- Filter Fabric",
+"name": "MISC- Filter Fabric",
+"unit": "RL"
+},
+{
+"id": "31912-794",
+"code": "31912",
+"category": "Geo- Filter Fabric",
+"name": "MISC- Separation Fabric",
+"unit": "RL"
+},
+{
+"id": "31913-795",
+"code": "31913",
+"category": "Geo- GeoCell Underlayment",
+"name": "Geo- GeoCell Underlayment",
+"unit": "SF"
+},
+{
+"id": "31914-796",
+"code": "31914",
+"category": "Geo- Geogrid Roll",
+"name": "MISC- Geogrid Fabric",
+"unit": "RL"
+},
+{
+"id": "31915-797",
+"code": "31915",
+"category": "Geo- Grass Seed",
+"name": "Geo- Grass Seed",
+"unit": "LB"
+},
+{
+"id": "31916-798",
+"code": "31916",
+"category": "Geo- Hydroseed",
+"name": "MISC- Grassing",
+"unit": "AC"
+},
+{
+"id": "31917-799",
+"code": "31917",
+"category": "Geo- Mulch",
+"name": "Geo- Mulch",
+"unit": "TN"
+},
+{
+"id": "31918-800",
+"code": "31918",
+"category": "Geo- Silt Fence",
+"name": "MISC- Silt Fence",
+"unit": "LF"
+},
+{
+"id": "31919-801",
+"code": "31919",
+"category": "Geo- Waddles",
+"name": "Geo- Waddles",
+"unit": "EA"
+},
+{
+"id": "31920-802",
+"code": "31920",
+"category": "Geo- Wire Mesh",
+"name": "Geo- Wire Mesh",
+"unit": "SY"
+},
+{
+"id": "31921-803",
+"code": "31921",
+"category": "Paving- Asphalt",
+"name": "Paving- Asphalt",
+"unit": "TN"
+},
+{
+"id": "31922-804",
+"code": "31922",
+"category": "Paving- Disposal Fees",
+"name": "Paving- Disposal Fees",
+"unit": "TN"
+},
+{
+"id": "31923-805",
+"code": "31923",
+"category": "Paving- Tack",
+"name": "Paving- Tack",
+"unit": "GA"
+},
+{
+"id": "31924-806",
+"code": "31924",
+"category": "Paving- Trucking",
+"name": "Paving- Trucking",
+"unit": "EA"
+},
+{
+"id": "31925-807",
+"code": "31925",
+"category": "Pipe- CMP",
+"name": "Pipe- CMP 12",
+"unit": "LF"
+},
+{
+"id": "31925-808",
+"code": "31925",
+"category": "Pipe- CMP",
+"name": "Pipe- CMP 14",
+"unit": "LF"
+},
+{
+"id": "31925-809",
+"code": "31925",
+"category": "Pipe- CMP",
+"name": "Pipe- CMP 15",
+"unit": "LF"
+},
+{
+"id": "31925-810",
+"code": "31925",
+"category": "Pipe- CMP",
+"name": "Pipe- CMP 16",
+"unit": "LF"
+},
+{
+"id": "31925-811",
+"code": "31925",
+"category": "Pipe- CMP",
+"name": "Pipe- CMP 18",
+"unit": "LF"
+},
+{
+"id": "31925-812",
+"code": "31925",
+"category": "Pipe- CMP",
+"name": "Pipe- CMP 20",
+"unit": "LF"
+},
+{
+"id": "31925-813",
+"code": "31925",
+"category": "Pipe- CMP",
+"name": "Pipe- CMP 22",
+"unit": "LF"
+},
+{
+"id": "31925-814",
+"code": "31925",
+"category": "Pipe- CMP",
+"name": "Pipe- CMP 24",
+"unit": "LF"
+},
+{
+"id": "31925-815",
+"code": "31925",
+"category": "Pipe- CMP",
+"name": "Pipe- CMP 30",
+"unit": "LF"
+},
+{
+"id": "31925-816",
+"code": "31925",
+"category": "Pipe- CMP",
+"name": "Pipe- CMP 36",
+"unit": "LF"
+},
+{
+"id": "31925-817",
+"code": "31925",
+"category": "Pipe- CMP",
+"name": "Pipe- CMP 42",
+"unit": "LF"
+},
+{
+"id": "31925-818",
+"code": "31925",
+"category": "Pipe- CMP",
+"name": "Pipe- CMP 48",
+"unit": "LF"
+},
+{
+"id": "31925-819",
+"code": "31925",
+"category": "Pipe- CMP",
+"name": "Pipe- CMP 60",
+"unit": "LF"
+},
+{
+"id": "31925-820",
+"code": "31925",
+"category": "Pipe- CMP",
+"name": "Pipe- CMP 72",
+"unit": "LF"
+},
+{
+"id": "31926-821",
+"code": "31926",
+"category": "Pipe- Conduit",
+"name": "Pipe- Conduit Heavy Wall",
+"unit": "LF"
+},
+{
+"id": "31926-822",
+"code": "31926",
+"category": "Pipe- Conduit",
+"name": "Pipe- Conduit Light Wall",
+"unit": "LF"
+},
+{
+"id": "31927-823",
+"code": "31927",
+"category": "Pipe- Perforated",
+"name": "Pipe- Perforated 10\"",
+"unit": "LF"
+},
+{
+"id": "31927-824",
+"code": "31927",
+"category": "Pipe- Perforated",
+"name": "Pipe- Perforated 12\"",
+"unit": "LF"
+},
+{
+"id": "31927-825",
+"code": "31927",
+"category": "Pipe- Perforated",
+"name": "Pipe- Perforated 15\"",
+"unit": "LF"
+},
+{
+"id": "31927-826",
+"code": "31927",
+"category": "Pipe- Perforated",
+"name": "Pipe- Perforated 18\"",
+"unit": "LF"
+},
+{
+"id": "31927-827",
+"code": "31927",
+"category": "Pipe- Perforated",
+"name": "Pipe- Perforated 6\"",
+"unit": "LF"
+},
+{
+"id": "31927-828",
+"code": "31927",
+"category": "Pipe- Perforated",
+"name": "Pipe- Perforated 8\"",
+"unit": "LF"
+},
+{
+"id": "31928-829",
+"code": "31928",
+"category": "Pipe- PVC",
+"name": "Pipe- PVC 1",
+"unit": "LF"
+},
+{
+"id": "31928-830",
+"code": "31928",
+"category": "Pipe- PVC",
+"name": "Pipe- PVC 2",
+"unit": "LF"
+},
+{
+"id": "31928-831",
+"code": "31928",
+"category": "Pipe- PVC",
+"name": "Pipe- PVC 3",
+"unit": "LF"
+},
+{
+"id": "31928-832",
+"code": "31928",
+"category": "Pipe- PVC",
+"name": "Pipe- PVC 4",
+"unit": "LF"
+},
+{
+"id": "31928-833",
+"code": "31928",
+"category": "Pipe- PVC",
+"name": "Pipe- PVC 5",
+"unit": "LF"
+},
+{
+"id": "31929-834",
+"code": "31929",
+"category": "Pipe- RCP",
+"name": "Pipe- RCP 18",
+"unit": "LF"
+},
+{
+"id": "31930-835",
+"code": "31930",
+"category": "Sign- Close Clearance",
+"name": "Sign- RR Sign/Post Clearance",
+"unit": "EA"
+},
+{
+"id": "31931-836",
+"code": "31931",
+"category": "Sign- Crossing",
+"name": "Sign- Crossing",
+"unit": "EA"
+},
+{
+"id": "31932-837",
+"code": "31932",
+"category": "Sign- Limits",
+"name": "Sign- Limits",
+"unit": "EA"
+},
+{
+"id": "31933-838",
+"code": "31933",
+"category": "Sign- Maintenance",
+"name": "Sign- Maintenance",
+"unit": "EA"
+},
+{
+"id": "31934-839",
+"code": "31934",
+"category": "Sign- RR Sign/Post",
+"name": "Sign- Post 4X4",
+"unit": "EA"
+},
+{
+"id": "31934-840",
+"code": "31934",
+"category": "Sign- RR Sign/Post",
+"name": "Sign- Post 4X6",
+"unit": "EA"
+},
+{
+"id": "31934-841",
+"code": "31934",
+"category": "Sign- RR Sign/Post",
+"name": "Sign- Post Composite",
+"unit": "EA"
+},
+{
+"id": "31934-842",
+"code": "31934",
+"category": "Sign- RR Sign/Post",
+"name": "Sign- Post Steel",
+"unit": "EA"
+},
+{
+"id": "31935-843",
+"code": "31935",
+"category": "Sign- Traffic",
+"name": "Sign- Traffic",
+"unit": "EA"
+},
+{
+"id": "31936-844",
+"code": "31936",
+"category": "Sign- X-Buck",
+"name": "Sign- RR Sign/Post Crossbuck",
+"unit": "EA"
+},
+{
+"id": "31937-845",
+"code": "31937",
+"category": "Weld- Grounding (Cad)",
+"name": "Weld- Grounding (Cad)",
+"unit": "EA"
+},
+{
+"id": "31938-846",
+"code": "31938",
+"category": "Weld- Grounding (Wire)",
+"name": "Weld- Grounding (Wire)",
+"unit": "EA"
+},
+{
+"id": "31939-847",
+"code": "31939",
+"category": "Weld- Kit 100#",
+"name": "Weld- Kit 100# Standard",
+"unit": "EA"
+},
+{
+"id": "31940-848",
+"code": "31940",
+"category": "Weld- Kit 112/115#",
+"name": "Weld- Kit 112/115# Standard",
+"unit": "EA"
+},
+{
+"id": "31941-849",
+"code": "31941",
+"category": "Weld- Kit 132/136#",
+"name": "Weld- Kit 132/136# Standard",
+"unit": "EA"
+},
+{
+"id": "31942-850",
+"code": "31942",
+"category": "Weld- Kit 140/141#",
+"name": "Weld- Kit 141# Standard",
+"unit": "EA"
+},
+{
+"id": "31943-851",
+"code": "31943",
+"category": "Weld- Kit 170/171#",
+"name": "Weld- Kit 170# Crane",
+"unit": "EA"
+},
+{
+"id": "31943-852",
+"code": "31943",
+"category": "Weld- Kit 170/171#",
+"name": "Weld- Kit 171# Crane",
+"unit": "EA"
+},
+{
+"id": "31944-853",
+"code": "31944",
+"category": "Weld- Kit Compromise",
+"name": "Weld- Kit Compromise 1",
+"unit": "EA"
+},
+{
+"id": "31944-854",
+"code": "31944",
+"category": "Weld- Kit Compromise",
+"name": "Weld- Kit Compromise 2",
+"unit": "EA"
+},
+{
+"id": "31944-855",
+"code": "31944",
+"category": "Weld- Kit Compromise",
+"name": "Weld- Kit Compromise 3",
+"unit": "EA"
+},
+{
+"id": "31944-856",
+"code": "31944",
+"category": "Weld- Kit Compromise",
+"name": "Weld- Kit Compromise 4",
+"unit": "EA"
+},
+{
+"id": "31945-857",
+"code": "31945",
+"category": "Weld- Kit Head Hardened",
+"name": "Weld- Kit Head Hardened",
+"unit": "EA"
+},
+{
+"id": "31946-858",
+"code": "31946",
+"category": "Weld- Welding Consumables",
+"name": "Weld- Welding Consumables",
+"unit": "EA"
+},
+{
+"id": "31947-859",
+"code": "31947",
+"category": "Weld- Welding Rod",
+"name": "Weld- Welding Rod",
+"unit": "LB"
+},
+{
+"id": "31948-860",
+"code": "31948",
+"category": "Weld- Welding Wire",
+"name": "Weld- Welding Wire",
+"unit": "LB"
+},
+{
+"id": "MISC-861",
+"code": "",
+"category": "Bridge- Misc Materials 1",
+"name": "Bridge- Misc Materials 1",
+"unit": "EA"
+},
+{
+"id": "MISC-862",
+"code": "",
+"category": "Bridge- Misc Materials 2",
+"name": "Bridge- Misc Materials 2",
+"unit": "EA"
+},
+{
+"id": "MISC-863",
+"code": "",
+"category": "Bridge- Misc Materials 3",
+"name": "Bridge- Misc Materials 3",
+"unit": "EA"
+},
+{
+"id": "MISC-864",
+"code": "",
+"category": "Bridge- Misc Materials 4",
+"name": "Bridge- Misc Materials 4",
+"unit": "EA"
+},
+{
+"id": "MISC-865",
+"code": "",
+"category": "MISC- Bonding CAD Head",
+"name": "MISC- Bonding CAD Head",
+"unit": "EA"
+},
+{
+"id": "MISC-866",
+"code": "",
+"category": "MISC- Bonding Cross Wires",
+"name": "MISC- Bonding Cross Wires",
+"unit": "EA"
+},
+{
+"id": "MISC-867",
+"code": "",
+"category": "MISC- Bonding Ground Rod",
+"name": "MISC- Bonding Ground Rod",
+"unit": "EA"
+},
+{
+"id": "MISC-868",
+"code": "",
+"category": "MISC- Bonding Wrap Around (Chicken Head)",
+"name": "MISC- Bonding Wrap Around (Chicken Head)",
+"unit": "EA"
+},
+{
+"id": "MISC-869",
+"code": "",
+"category": "MISC- Lubricator Pump Bar",
+"name": "MISC- Lubricator Pump Bar",
+"unit": "EA"
+},
+{
+"id": "MISC-870",
+"code": "",
+"category": "MISC- Track Bolt Assembly- Large",
+"name": "MISC- Track Bolt Assembly- Large",
+"unit": "EA"
+},
+{
+"id": "MISC-871",
+"code": "",
+"category": "Sign- RR Sign/Post Other",
+"name": "Sign- RR Sign/Post Other",
+"unit": "EA"
+},
+{
+"id": "MISC-872",
+"code": "",
+"category": "Sign- RR Sign/Post Warning",
+"name": "Sign- RR Sign/Post Warning",
+"unit": "EA"
+}
+]
