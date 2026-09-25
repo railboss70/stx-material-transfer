@@ -290,11 +290,12 @@ function drawSignatures(doc: jsPDF, t: Transfer, tableBottom: number) {
   doc.setFont("helvetica", "normal");
   doc.setFontSize(7.5);
   doc.text("Print Name", MARGIN + 18, y);
-  line(doc, MARGIN + 40, y - 3.2, MARGIN + 40 + colW, y - 3.2);
+  // Same baseline as the label, like the other signature lines.
+  line(doc, MARGIN + 34, y + 1.1, MARGIN + 34 + colW, y + 1.1);
   if (t.receiverName) {
     doc.setFont("helvetica", "bold");
     doc.setFontSize(9.5);
-    doc.text(t.receiverName, MARGIN + 42, y - 3.8);
+    doc.text(t.receiverName, MARGIN + 36, y);
   }
 
   y += 10;
