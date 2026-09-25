@@ -1,5 +1,5 @@
 import { documentNo, transferFilename, type Transfer } from "@/lib/types";
-import { formatShortDate, qtyDisplay } from "@/lib/utils";
+import { formatShortDate, publicUrl, qtyDisplay } from "@/lib/utils";
 
 export function TransferPreview({ transfer: t }: { transfer: Transfer }) {
   const items = t.items.filter((i) => i.code || i.details || i.qty);
@@ -19,7 +19,7 @@ export function TransferPreview({ transfer: t }: { transfer: Transfer }) {
   return (
     <article className="bol-sheet mx-auto w-full max-w-[816px] bg-white text-[#161a20] shadow-2xl">
       <header className="flex items-start justify-between gap-4 border-b border-[#d5dbe3] px-6 pb-3 pt-5">
-        <img src="/stx-logo.png" alt="STX Corporation" className="h-14 w-auto object-contain" />
+        <img src={publicUrl("stx-logo.png")} alt="STX Corporation" className="h-14 w-auto object-contain" />
         <div className="min-w-0 text-right">
           <h2 className="font-display text-[22px] font-semibold leading-tight tracking-tight">
             Inventory Transfer and Bill of Lading

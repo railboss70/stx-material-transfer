@@ -135,7 +135,10 @@ function TransferCard({
         <button type="button" onClick={onOpen} className="min-w-0 text-left">
           <div className="flex flex-wrap items-center gap-2">
             <Badge variant={t.direction === "IN" ? "in" : "out"}>{t.direction}</Badge>
-            <span className="font-mono text-sm text-primary">{documentNo(t) || "Draft"}</span>
+            {t.status === "draft" ? <Badge variant="muted">Draft · tap to finish</Badge> : null}
+            {documentNo(t) ? (
+              <span className="font-mono text-sm text-primary">{documentNo(t)}</span>
+            ) : null}
             <span className="text-xs text-muted">{formatShortDate(t.pickUpDate)}</span>
           </div>
           <p className="mt-2 font-display text-xl font-semibold tracking-tight">
@@ -146,7 +149,7 @@ function TransferCard({
           <p className="mt-1 text-xs text-muted">
             {count} item{count === 1 ? "" : "s"}
             {t.carrierName ? ` · ${t.carrierName}` : ""}
-            {t.status === "draft" ? " · Draft" : " · Issued"}
+            {t.status === "issued" ? " · Issued" : ""}
           </p>
           <p className="mt-1 hidden font-mono text-[11px] text-muted sm:block">
             {transferFilename(t)}

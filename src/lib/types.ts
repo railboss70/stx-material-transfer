@@ -63,6 +63,21 @@ export function documentNo(t: Pick<Transfer, "from" | "to">) {
   return "";
 }
 
+/** True once the user has typed something beyond the blank-form defaults. */
+export function hasContent(t: Transfer) {
+  const party = (p: JobParty) => [p.jobName, p.jobNumber, p.address];
+  return [
+    ...party(t.from),
+    ...party(t.to),
+    t.bol,
+    t.specialInstructions,
+    t.carrierName,
+    t.shipperName,
+    t.receiverName,
+    ...t.items.flatMap((i) => [i.code, i.details, i.qty, i.weight]),
+  ].some((v) => v.trim() !== "");
+}
+
 export function transferFilename(t: Transfer) {
   const date = yymmddSafe(t.pickUpDate);
   const from = t.from.jobNumber.trim() || "00000";

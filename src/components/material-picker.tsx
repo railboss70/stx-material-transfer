@@ -1,8 +1,13 @@
-import { useEffect, useId, useMemo, useRef, useState } from "react";
+import { useEffect, useId, useLayoutEffect, useMemo, useRef, useState } from "react";
 import { materialById, searchMaterials } from "@/lib/materials";
 import { useTransferStore } from "@/lib/store";
 import type { Material } from "@/lib/types";
 import { cn } from "@/lib/utils";
+
+const MAX_LIST_PX = 288; // max-h-72
+const MIN_LIST_PX = 140;
+const BOTTOM_BAR_PX = 84; // fixed Download PDF / Email bar in the transfer form
+const HEADER_PX = 76; // sticky app header
 
 interface Props {
   value: string;
@@ -16,6 +21,7 @@ export function MaterialPicker({ value, code, onSelect, onChangeDetails, autoFoc
   const recents = useTransferStore((s) => s.recentMaterialIds);
   const [open, setOpen] = useState(false);
   const [active, setActive] = useState(0);
+  const [placement, setPlacement] = useState({ up: false, maxHeight: MAX_LIST_PX });
   const rootRef = useRef<HTMLDivElement>(null);
   const listId = useId();
 
@@ -31,6 +37,33 @@ export function MaterialPicker({ value, code, onSelect, onChangeDetails, autoFoc
   useEffect(() => {
     setActive(0);
   }, [value, open]);
+
+  // Open upward when the fixed PDF/Email bar would cover the list below the field.
+  useLayoutEffect(() => {
+    if (!open) return;
+    function place() {
+      const input = rootRef.current?.querySelector("input");
+      if (!input) return;
+      const rect = input.getBoundingClientRect();
+      const viewH = window.visualViewport?.height ?? window.innerHeight;
+      const below = viewH - rect.bottom - BOTTOM_BAR_PX;
+      const above = rect.top - HEADER_PX;
+      const up = below < MAX_LIST_PX && above > below;
+      setPlacement({
+        up,
+        maxHeight: Math.max(MIN_LIST_PX, Math.min(MAX_LIST_PX, up ? above : below)),
+      });
+    }
+    place();
+    window.addEventListener("scroll", place, true);
+    window.addEventListener("resize", place);
+    window.visualViewport?.addEventListener("resize", place);
+    return () => {
+      window.removeEventListener("scroll", place, true);
+      window.removeEventListener("resize", place);
+      window.visualViewport?.removeEventListener("resize", place);
+    };
+  }, [open]);
 
   useEffect(() => {
     function onDoc(e: MouseEvent) {
@@ -85,7 +118,11 @@ export function MaterialPicker({ value, code, onSelect, onChangeDetails, autoFoc
         <ul
           id={listId}
           role="listbox"
-          className="absolute z-50 mt-1 max-h-72 w-full overflow-auto rounded-lg border border-border bg-surface py-1 shadow-xl"
+          style={{ maxHeight: placement.maxHeight }}
+          className={cn(
+            "absolute z-50 w-full overflow-auto rounded-lg border border-border bg-surface py-1 shadow-xl",
+            placement.up ? "bottom-full mb-1" : "top-full mt-1",
+          )}
         >
           {value.trim().length < 1 ? (
             <li className="px-3 py-1.5 text-[10px] font-semibold uppercase tracking-[0.16em] text-muted">

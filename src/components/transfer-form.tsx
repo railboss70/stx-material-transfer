@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import { Link, useNavigate } from "@tanstack/react-router";
 import {
   ArrowLeftRight,
@@ -22,6 +22,7 @@ import { downloadTransferPdf, shareOrEmailTransfer } from "@/lib/pdf";
 import { blankItem, useTransferStore } from "@/lib/store";
 import {
   documentNo,
+  hasContent,
   transferFilename,
   type Direction,
   type LineItem,
@@ -38,6 +39,38 @@ export function TransferForm({ initial }: { initial: Transfer }) {
   const [t, setT] = useState<Transfer>(initial);
   const [preview, setPreview] = useState(false);
   const [busy, setBusy] = useState<"pdf" | "email" | null>(null);
+  const [autosavedAt, setAutosavedAt] = useState<Date | null>(null);
+  const latest = useRef(t);
+  const lastSaved = useRef(t);
+  latest.current = t;
+
+  // Autosave so a phone call or app switch never loses a half-filled form.
+  const flush = useCallback(() => {
+    const cur = latest.current;
+    if (cur === lastSaved.current || !hasContent(cur)) return;
+    lastSaved.current = cur;
+    upsert(cur);
+    setAutosavedAt(new Date());
+  }, [upsert]);
+
+  useEffect(() => {
+    if (t === lastSaved.current) return;
+    const timer = setTimeout(flush, 600);
+    return () => clearTimeout(timer);
+  }, [t, flush]);
+
+  useEffect(() => {
+    const onHide = () => {
+      if (document.visibilityState === "hidden") flush();
+    };
+    document.addEventListener("visibilitychange", onHide);
+    window.addEventListener("pagehide", flush);
+    return () => {
+      document.removeEventListener("visibilitychange", onHide);
+      window.removeEventListener("pagehide", flush);
+      flush();
+    };
+  }, [flush]);
 
   function patch(partial: Partial<Transfer>) {
     setT((prev) => ({ ...prev, ...partial }));
@@ -62,6 +95,7 @@ export function TransferForm({ initial }: { initial: Transfer }) {
 
   function save(status: Transfer["status"] = t.status) {
     const next = { ...t, status };
+    lastSaved.current = next;
     upsert(next);
     rememberJob(next.from);
     rememberJob(next.to);
@@ -117,6 +151,12 @@ export function TransferForm({ initial }: { initial: Transfer }) {
           <p className="mt-1 font-mono text-[12px] text-muted">
             {transferFilename(t)}
           </p>
+          {autosavedAt ? (
+            <p className="mt-1 text-xs text-muted">
+              Saved on this phone ·{" "}
+              {autosavedAt.toLocaleTimeString([], { hour: "numeric", minute: "2-digit" })}
+            </p>
+          ) : null}
         </div>
         <div className="flex flex-wrap gap-2">
           <Button variant="outline" size="sm" onClick={() => setPreview(true)}>
