@@ -16,12 +16,21 @@ const INK: [number, number, number] = [22, 26, 32];
 const RULE: [number, number, number] = [55, 62, 70];
 const HEADER_FILL: [number, number, number] = [230, 235, 242];
 
+const FOOTER_Y = PAGE_H - 7;
+// Signature block runs from its first baseline to the last label (~50mm);
+// the item table must stop early enough that it all fits above the footer.
+const SIG_BLOCK_H = 50;
+const SIG_GAP = 10;
+const TABLE_LIMIT_WITH_SIGS = FOOTER_Y - 6 - SIG_BLOCK_H - SIG_GAP;
+const TABLE_LIMIT_CONTINUED = FOOTER_Y - 6;
+
 let logoDataUrl: string | null = null;
 
 async function loadLogo() {
   if (logoDataUrl) return logoDataUrl;
   try {
-    const res = await fetch(publicUrl("stx-logo-full.png"));
+    // The 525px logo is plenty sharp at 58mm and keeps the PDF small for email.
+    const res = await fetch(publicUrl("stx-logo.png"));
     const blob = await res.blob();
     logoDataUrl = await new Promise<string>((resolve, reject) => {
       const reader = new FileReader();
@@ -68,7 +77,10 @@ function wrap(doc: jsPDF, text: string, maxW: number) {
 function drawHeader(doc: jsPDF, t: Transfer, logo: string) {
   if (logo) {
     try {
-      doc.addImage(logo, "PNG", MARGIN, 8, 58, 22);
+      const props = doc.getImageProperties(logo);
+      const w = 58;
+      const h = Math.min(24, (w * props.height) / props.width);
+      doc.addImage(logo, "PNG", MARGIN, 8, w, h, "stx-logo", "FAST");
     } catch {
       /* logo optional */
     }
@@ -104,7 +116,6 @@ function drawPartyBox(doc: jsPDF, t: Transfer) {
   doc.rect(left, y, right - left, h);
   doc.line(mid, y, mid, y + h);
   doc.line(left, y + 7, right, y + 7);
-
   doc.setFont("helvetica", "bold");
   doc.setFontSize(9);
   doc.setTextColor(...INK);
@@ -114,14 +125,12 @@ function drawPartyBox(doc: jsPDF, t: Transfer) {
   doc.text("Material Transferred To:", mid + (right - mid) / 2, y + 4.8, {
     align: "center",
   });
-
   const rows = [
     ["Company:", t.from.company, t.to.company],
     ["Job Name:", t.from.jobName, t.to.jobName],
     ["Job Number:", t.from.jobNumber, t.to.jobNumber],
     ["Address:", t.from.address, t.to.address],
   ] as const;
-
   let ry = y + 7;
   const rowH = (h - 7) / 4;
   for (let i = 0; i < rows.length; i++) {
@@ -156,7 +165,8 @@ function drawMeta(doc: jsPDF, t: Transfer) {
   return y + 6;
 }
 
-function drawTable(doc: jsPDF, items: LineItem[], startY: number) {
+/** Draws as many items as fit above bottomLimit; returns where it stopped. */
+function drawTable(doc: jsPDF, items: LineItem[], startY: number, bottomLimit: number) {
   const cols = [
     { key: "code", label: "Item Code", x: MARGIN, w: 22 },
     { key: "details", label: "Details", x: MARGIN + 22, w: 118 },
@@ -171,14 +181,12 @@ function drawTable(doc: jsPDF, items: LineItem[], startY: number) {
   const tableW = PAGE_W - MARGIN * 2;
   const headerH = 8;
   const minRow = 7.2;
-  const bottomLimit = 228;
 
   doc.setFillColor(...HEADER_FILL);
   doc.rect(MARGIN, startY, tableW, headerH, "F");
   doc.setDrawColor(...RULE);
   doc.setLineWidth(0.35);
   doc.rect(MARGIN, startY, tableW, headerH);
-
   doc.setFont("helvetica", "bold");
   doc.setFontSize(8.5);
   doc.setTextColor(...INK);
@@ -187,11 +195,10 @@ function drawTable(doc: jsPDF, items: LineItem[], startY: number) {
     if (c.x !== MARGIN) doc.line(c.x, startY, c.x, startY + headerH);
   }
 
-  const filled = items.filter((i) => i.code || i.details || i.qty);
   const rows: { item?: LineItem; h: number; lines: string[] }[] = [];
   doc.setFont("helvetica", "normal");
   doc.setFontSize(8.5);
-  for (const item of filled) {
+  for (const item of items) {
     const lines = wrap(doc, item.details || "", cols[1].w - 3);
     const h = Math.max(minRow, lines.length * 3.6 + 3.2);
     rows.push({ item, h, lines });
@@ -199,8 +206,10 @@ function drawTable(doc: jsPDF, items: LineItem[], startY: number) {
   while (rows.length < 12) rows.push({ h: minRow, lines: [] });
 
   let y = startY + headerH;
+  let drawn = 0;
   for (const row of rows) {
     if (y + row.h > bottomLimit) break;
+    if (row.item) drawn++;
     doc.setDrawColor(...RULE);
     doc.setLineWidth(0.25);
     doc.rect(MARGIN, y, tableW, row.h);
@@ -230,11 +239,11 @@ function drawTable(doc: jsPDF, items: LineItem[], startY: number) {
     }
     y += row.h;
   }
-  return y;
+  return { y, drawn };
 }
 
 function drawSignatures(doc: jsPDF, t: Transfer, tableBottom: number) {
-  let y = Math.max(tableBottom + 10, 232);
+  let y = tableBottom + SIG_GAP;
   const colW = (PAGE_W - MARGIN * 2 - 8) / 2;
 
   doc.setFont("helvetica", "bold");
@@ -245,7 +254,6 @@ function drawSignatures(doc: jsPDF, t: Transfer, tableBottom: number) {
   doc.setFont("helvetica", "normal");
   doc.setFontSize(7.5);
   doc.text("Pick Up Date", MARGIN + 18, y + 4.2);
-
   doc.setFont("helvetica", "bold");
   doc.setFontSize(9.5);
   doc.text(t.carrierName || "", MARGIN + 80, y);
@@ -277,6 +285,7 @@ function drawSignatures(doc: jsPDF, t: Transfer, tableBottom: number) {
   doc.setFont("helvetica", "normal");
   doc.setFontSize(8.5);
   doc.text("All goods received in satisfactory order and accounted for:", MARGIN + 18, y);
+
   y += 7;
   doc.setFont("helvetica", "normal");
   doc.setFontSize(7.5);
@@ -302,16 +311,18 @@ function drawSignatures(doc: jsPDF, t: Transfer, tableBottom: number) {
   doc.setFont("helvetica", "normal");
   doc.setFontSize(7.5);
   doc.text("Signature", MARGIN + 70, y + 3.8);
+}
 
+function drawFooter(doc: jsPDF, t: Transfer, page: number, pages: number) {
   doc.setFont("helvetica", "italic");
   doc.setFontSize(7);
   doc.setTextColor(90, 98, 108);
   const dir = t.direction === "IN" ? "INBOUND" : "OUTBOUND";
-  doc.text(
-    `${dir}  ·  ${transferFilename(t).replace(/\.pdf$/i, "")}`,
-    MARGIN,
-    PAGE_H - 8,
-  );
+  doc.text(`${dir}  ·  ${transferFilename(t).replace(/\.pdf$/i, "")}`, MARGIN, FOOTER_Y);
+  if (pages > 1) {
+    doc.text(`Page ${page} of ${pages}`, PAGE_W - MARGIN, FOOTER_Y, { align: "right" });
+  }
+  doc.setTextColor(...INK);
 }
 
 export async function buildTransferPdf(t: Transfer) {
@@ -322,17 +333,26 @@ export async function buildTransferPdf(t: Transfer) {
   drawHeader(doc, t, logo);
   drawPartyBox(doc, t);
   const tableY = drawMeta(doc, t);
-  const tableBottom = drawTable(doc, t.items, tableY);
-  drawSignatures(doc, t, tableBottom);
+  const filled = t.items.filter((i) => i.code || i.details || i.qty);
+  const first = drawTable(doc, filled, tableY, TABLE_LIMIT_WITH_SIGS);
+  drawSignatures(doc, t, first.y);
 
-  const extra = t.items.filter((i) => i.code || i.details || i.qty).slice(12);
-  if (extra.length) {
+  // Items that didn't fit continue on as many extra pages as needed.
+  let rest = filled.slice(first.drawn);
+  while (rest.length) {
     doc.addPage();
     drawHeader(doc, t, logo);
     doc.setFont("helvetica", "bold");
     doc.setFontSize(10);
     doc.text("Continued items", MARGIN, 36);
-    drawTable(doc, extra, 40);
+    const page = drawTable(doc, rest, 40, TABLE_LIMIT_CONTINUED);
+    rest = rest.slice(Math.max(page.drawn, 1));
+  }
+
+  const pages = doc.getNumberOfPages();
+  for (let p = 1; p <= pages; p++) {
+    doc.setPage(p);
+    drawFooter(doc, t, p, pages);
   }
 
   const blob = doc.output("blob");
@@ -362,7 +382,6 @@ export async function shareOrEmailTransfer(
     `STX Material Transfer ${documentNo(t) || ""} ${t.direction}`.trim(),
   );
   const body = encodeURIComponent(emailBody(t));
-
   const canShare =
     typeof navigator.canShare === "function" && navigator.canShare({ files: [file] });
   if (canShare) {
@@ -377,7 +396,6 @@ export async function shareOrEmailTransfer(
       if ((err as Error).name === "AbortError") return "aborted";
     }
   }
-
   const url = URL.createObjectURL(blob);
   const a = document.createElement("a");
   a.href = url;
