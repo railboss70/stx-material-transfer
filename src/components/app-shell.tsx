@@ -10,7 +10,8 @@ export function AppShell({ children }: { children: ReactNode }) {
 
   return (
     <div className="min-h-dvh bg-bg text-fg">
-      <header className="sticky top-0 z-20 border-b border-border bg-bg/92 backdrop-blur-md">
+      {/* pt: keep header below the iPhone clock/battery when opened from the home screen */}
+      <header className="sticky top-0 z-20 border-b border-border bg-bg/92 pt-[env(safe-area-inset-top)] backdrop-blur-md">
         <div className="mx-auto flex h-[4.25rem] max-w-6xl items-center gap-4 px-4 sm:px-6">
           <Link to="/" className="flex min-w-0 shrink items-center gap-3">
             <img
@@ -56,6 +57,7 @@ export function AppShell({ children }: { children: ReactNode }) {
       <Toaster
         theme="dark"
         position="top-center"
+        mobileOffset={{ top: "calc(env(safe-area-inset-top) + 12px)" }}
         toastOptions={{
           className: "bg-surface border-border text-fg",
         }}
@@ -78,7 +80,6 @@ function InstallHint() {
   }, []);
 
   if (!show) return null;
-
   return (
     <div className="border-b border-border bg-surface-2 px-4 py-2.5 sm:px-6">
       <div className="mx-auto flex max-w-6xl items-start gap-3 text-sm">

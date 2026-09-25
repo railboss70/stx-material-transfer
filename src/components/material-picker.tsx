@@ -47,7 +47,8 @@ export function MaterialPicker({ value, code, onSelect, onChangeDetails, autoFoc
       const rect = input.getBoundingClientRect();
       const viewH = window.visualViewport?.height ?? window.innerHeight;
       const below = viewH - rect.bottom - BOTTOM_BAR_PX;
-      const above = rect.top - HEADER_PX;
+      const headerBottom = document.querySelector("header")?.getBoundingClientRect().bottom;
+      const above = rect.top - (headerBottom ?? HEADER_PX);
       const up = below < MAX_LIST_PX && above > below;
       setPlacement({
         up,

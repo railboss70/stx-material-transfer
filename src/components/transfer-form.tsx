@@ -394,7 +394,7 @@ export function TransferForm({ initial }: { initial: Transfer }) {
           aria-modal="true"
           aria-label="Bill of lading preview"
         >
-          <div className="flex items-center justify-between gap-3 border-b border-border bg-surface px-4 py-3">
+          <div className="flex items-center justify-between gap-3 border-b border-border bg-surface px-4 pb-3 pt-[max(0.75rem,env(safe-area-inset-top))]">
             <p className="text-sm font-medium">Bill of lading preview</p>
             <div className="flex gap-2">
               <Button size="sm" variant="secondary" onClick={onPdf}>
